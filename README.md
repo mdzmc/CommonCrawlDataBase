@@ -1,1 +1,176 @@
 # CommonCrawlDataBase
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=640">
+
+    <link rel="stylesheet" href="/enquete_vie_sociale_donnees/assets/css/style.css?v=39b2f396028652f545ffc90253542ea003d51d72" media="screen">
+    <link rel="stylesheet" href="/enquete_vie_sociale_donnees/assets/css/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="/enquete_vie_sociale_donnees/assets/css/non-screen.css" media="handheld, only screen and (max-device-width:640px)">
+
+    <script src="/enquete_vie_sociale_donnees/assets/js/modernizr.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/enquete_vie_sociale_donnees/assets/js/headsmart.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>enquete_vie_sociale_donnees</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="enquete_vie_sociale_donnees" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://jphcoi.github.io/enquete_vie_sociale_donnees/" />
+<meta property="og:url" content="https://jphcoi.github.io/enquete_vie_sociale_donnees/" />
+<meta property="og:site_name" content="enquete_vie_sociale_donnees" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="enquete_vie_sociale_donnees" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"enquete_vie_sociale_donnees","name":"enquete_vie_sociale_donnees","url":"https://jphcoi.github.io/enquete_vie_sociale_donnees/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/enquete_vie_sociale_donnees/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+    <a id="forkme_banner" href="https://github.com/jphcoi/enquete_vie_sociale_donnees">View on GitHub</a>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>enquete_vie_sociale_donnees</h1>
+            <h2></h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h1 id="enquete-sur-la-vie-sociale-des-données">Enquete sur la vie sociale des données</h1>
+
+<h2 id="introduction">Introduction</h2>
+
+<h3 id="1ere-section">1ere section</h3>
+
+<p>Essayon d’ajouter quelques lignes de code</p>
+
+<p><img src="https://i0.wp.com/syncedreview.com/wp-content/uploads/2020/06/ts-618.png?w=1774&amp;ssl=1" alt="imagenet logo" /></p>
+
+<p>Whenever you commit to this repository, GitHub Pages will run <a href="https://jekyllrb.com/">Jekyll</a> to rebuild the pages in your site, from the content in your Markdown files.</p>
+
+<h3 id="markdown">Markdown</h3>
+
+<p>Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Syntax highlighted code block
+
+<span class="gh"># Header 1</span>
+<span class="gu">## Header 2</span>
+<span class="gu">### Header 3</span>
+<span class="p">
+-</span> Bulleted
+<span class="p">-</span> List
+<span class="p">
+1.</span> Numbered
+<span class="p">2.</span> List
+
+<span class="gs">**Bold**</span> and _Italic_ and <span class="sb">`Code`</span> text
+
+<span class="p">[</span><span class="nv">Link</span><span class="p">](</span><span class="sx">url</span><span class="p">)</span> and !<span class="p">[</span><span class="nv">Image</span><span class="p">](</span><span class="sx">src</span><span class="p">)</span>
+</code></pre></div></div>
+<iframe width="624" height="386" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYMpR7I8id4Wz0foBvtrLSo8DDDWagb1xIeh2tlf8MvF3fG-_ff5Z9VbBDjksc2OE0OseMzI6bOaI/pubchart?oid=2073830845&amp;format=interactive"></iframe>
+
+<p>For more details see <a href="https://guides.github.com/features/mastering-markdown/">GitHub Flavored Markdown</a>.</p>
+
+<h3 id="jekyll-themes">Jekyll Themes</h3>
+
+<ul>
+  <li>Architect</li>
+  <li>Cayman</li>
+  <li>Dinky</li>
+  <li>Hacker</li>
+  <li>Leap day</li>
+  <li>Merlot</li>
+  <li>Midnight</li>
+  <li>Minima</li>
+  <li>Minimal</li>
+  <li>Modernist</li>
+  <li>Slate</li>
+  <li>Tactile</li>
+  <li>Time machine</li>
+</ul>
+
+<p><a href="https://pages.github.com/themes/">https://pages.github.com/themes/</a></p>
+
+<p>Your Pages site will use the layout and styles from the Jekyll theme you have selected in your <a href="https://github.com/jphcoi/public_project/settings">repository settings</a>. The name of this theme is saved in the Jekyll <code class="language-plaintext highlighter-rouge">_config.yml</code> configuration file.</p>
+
+<h3 id="support-or-contact">Support or Contact</h3>
+<h1 id="header-1">Header 1</h1>
+<h2 id="header-2">Header 2</h2>
+<h3 id="header-3">Header 3</h3>
+<p>Having trouble with Pages? Check out our <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
+
+<p>Vous pouvez également inclure des vidéos en utilsant la  syntaxe ci-dessous:</p>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/0Cca3Mqa2hA" width="700" height="480" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+
+<p>Ou tout un tas d’autres ressources provenant de réseaux sociaux (<a href="https://github.com/nathancy/jekyll-embed-video">https://github.com/nathancy/jekyll-embed-video</a>) comme des tweets:</p>
+
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/GaryMarcus/status/1582501658101108736"></a>
+</blockquote>
+
+
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+
+              <p>this project by <a href="https://github.com/jphcoi">jphcoi</a> can be found on <a href="https://github.com/jphcoi/enquete_vie_sociale_donnees">GitHub</a></p>
+
+
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+  </body>
+</html>
