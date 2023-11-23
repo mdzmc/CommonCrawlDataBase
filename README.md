@@ -81,9 +81,9 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<h3 id="1ere-section">1ere section</h3>
+<h3 id="Overview de la base de données">1ere section</h3>
 
-<p>Essayon d’ajouter quelques lignes de code</p>
+<p>Nous verrons d'abord l'histoire de cette base de données avant d'expliquer son fonctionnement</p>
 
 <p><img src="https://i0.wp.com/syncedreview.com/wp-content/uploads/2020/06/ts-618.png?w=1774&amp;ssl=1" alt="imagenet logo" /></p>
 
@@ -136,21 +136,21 @@
 <p>Your Pages site will use the layout and styles from the Jekyll theme you have selected in your <a href="https://github.com/jphcoi/public_project/settings">repository settings</a>. The name of this theme is saved in the Jekyll <code class="language-plaintext highlighter-rouge">_config.yml</code> configuration file.</p>
 
 <h3 id="support-or-contact">Support or Contact</h3>
-<h1 id="header-1">Header 1</h1>
-<h2 id="header-2">Header 2</h2>
-<h3 id="header-3">Header 3</h3>
+<h1 id="Interviews">Header 1</h1>
+<h2 id="Les créateurs et gérants de Common Crawl">Header 2</h2>
+<h3 id="Rich Skrenta">Header 3</h3>
 <p>Having trouble with Pages? Check out our <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
 
 <p>Vous pouvez également inclure des vidéos en utilsant la  syntaxe ci-dessous:</p>
 <div class="embed-container">
-  <iframe src="https://www.youtube.com/embed/0Cca3Mqa2hA" width="700" height="480" frameborder="0" allowfullscreen="true">
+  <iframe src="[https://www.youtube.com/embed/0Cca3Mqa2hA](https://www.youtube.com/watch?v=QTlleyrFngU)" width="700" height="480" frameborder="0" allowfullscreen="true">
   </iframe>
 </div>
 
 <p>Ou tout un tas d’autres ressources provenant de réseaux sociaux (<a href="https://github.com/nathancy/jekyll-embed-video">https://github.com/nathancy/jekyll-embed-video</a>) comme des tweets:</p>
 
 <blockquote class="twitter-tweet">
-  <a href="https://twitter.com/GaryMarcus/status/1582501658101108736"></a>
+  <a href="https://twitter.com/geoffreyhinton/status/1717967329202491707?s=46&t=aj6GX9IxEIsWGRYl-HJUjg"></a>
 </blockquote>
 
 
