@@ -139,7 +139,7 @@
 <h1 id="Interviews">Interviews</h1>
 <h2 id="Les créateurs et gérants de Common Crawl">Les créateurs et gérants de Common Crawl</h2>
 <h3 id="Rich Skrenta">Rich Skrenta</h3>
-<p>Having trouble with Pages? Check out our <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
+<p>Lors de son interviez, Rich Skrenta a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">team support</a> pour en apprendre plus.</p>
 
 <p>Une base de données déjà très ancienne:</p>
 <div class="embed-container">
