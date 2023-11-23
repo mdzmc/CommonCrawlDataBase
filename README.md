@@ -20,7 +20,7 @@
     </script>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>enquete_vie_sociale_donnees</title>
+<title>La_base_de_données_Common_Crawl</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="enquete_vie_sociale_donnees" />
 <meta property="og:locale" content="en_US" />
@@ -55,7 +55,7 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>enquete_vie_sociale_donnees</h1>
+            <h1>La_base_de_données_Common_Crawl</h1>
             <h2></h2>
           </span>
           <span class="left-tail"></span>
@@ -81,11 +81,11 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<h3 id="Overview de la base de données">1ere section</h3>
+<h3 id="Overview de la base de données">Overview de la base de données</h3>
 
 <p>Nous verrons d'abord l'histoire de cette base de données avant d'expliquer son fonctionnement</p>
 
-<p><img src="https://i0.wp.com/syncedreview.com/wp-content/uploads/2020/06/ts-618.png?w=1774&amp;ssl=1" alt="imagenet logo" /></p>
+<p><img src="[https://i0.wp.com/syncedreview.com/wp-content/uploads/2020/06/ts-618.png?w=1774&amp;ssl=1" alt="imagenet log](https://assets-global.website-files.com/6479b8d98bf5dcb4a69c4f31/64998abcc5eecec5b3aa6523_useourdata.webp)o"/></p>
 
 <p>Whenever you commit to this repository, GitHub Pages will run <a href="https://jekyllrb.com/">Jekyll</a> to rebuild the pages in your site, from the content in your Markdown files.</p>
 
@@ -95,9 +95,9 @@
 
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Syntax highlighted code block
 
-<span class="gh"># Header 1</span>
-<span class="gu">## Header 2</span>
-<span class="gu">### Header 3</span>
+<span class="gh">#Interviews</span>
+<span class="gu">## Les créateures et dirigeants de Common Crawl</span>
+<span class="gu">### Rich Skrienta</span>
 <span class="p">
 -</span> Bulleted
 <span class="p">-</span> List
@@ -136,21 +136,21 @@
 <p>Your Pages site will use the layout and styles from the Jekyll theme you have selected in your <a href="https://github.com/jphcoi/public_project/settings">repository settings</a>. The name of this theme is saved in the Jekyll <code class="language-plaintext highlighter-rouge">_config.yml</code> configuration file.</p>
 
 <h3 id="support-or-contact">Support or Contact</h3>
-<h1 id="Interviews">Header 1</h1>
-<h2 id="Les créateurs et gérants de Common Crawl">Header 2</h2>
-<h3 id="Rich Skrenta">Header 3</h3>
+<h1 id="Interviews">Interviews</h1>
+<h2 id="Les créateurs et gérants de Common Crawl">Les créateurs et gérants de Common Crawl</h2>
+<h3 id="Rich Skrenta">Rich Skrenta</h3>
 <p>Having trouble with Pages? Check out our <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
 
 <p>Vous pouvez également inclure des vidéos en utilsant la  syntaxe ci-dessous:</p>
 <div class="embed-container">
-  <iframe src="[https://www.youtube.com/embed/0Cca3Mqa2hA](https://www.youtube.com/watch?v=QTlleyrFngU)" width="700" height="480" frameborder="0" allowfullscreen="true">
+  <iframe src="https://www.youtube.com/watch?v=QTlleyrFngU" width="700" height="480" frameborder="0" allowfullscreen="true">
   </iframe>
 </div>
 
-<p>Ou tout un tas d’autres ressources provenant de réseaux sociaux (<a href="https://github.com/nathancy/jekyll-embed-video">https://github.com/nathancy/jekyll-embed-video</a>) comme des tweets:</p>
+<p>Un effort constant pour améliorer le système contre les critiques et les limites actuelles (<a href="https://github.com/nathancy/jekyll-embed-video">https://github.com/nathancy/jekyll-embed-video</a>) notamment introduites sur twitter:</p>
 
 <blockquote class="twitter-tweet">
-  <a href="https://twitter.com/geoffreyhinton/status/1717967329202491707?s=46&t=aj6GX9IxEIsWGRYl-HJUjg"></a>
+  <a href="[https://twitter.com/geoffreyhinton/status/1717967329202491707?s=46&t=aj6GX9IxEIsWGRYl-HJUjg]"></a>
 </blockquote>
 
 
