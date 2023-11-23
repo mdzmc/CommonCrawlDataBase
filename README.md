@@ -87,11 +87,11 @@
 
 <p><img src="https://24pm.com/images/2023/04/21/chat-gpt-data-sources.jpg"/></p>
 
-<p>Whenever you commit to this repository, GitHub Pages will run <a href="https://jekyllrb.com/">Jekyll</a> to rebuild the pages in your site, from the content in your Markdown files.</p>
+<p>Cette base de données a été créé par Gil Elbaz en Californie dans la Sillicon Valley en 2008 et a été utilisé pour la première fois par Amazon en 2011. Common Crawl est une non-profit organization toujours actuellement dirigé par Gil Elbaz avec l'aide de Rich Skirenta, Greg Lindhal et Sébastien Nagel. En 2020, cette base de données a été utilisé pour entraîner le modèle linguistique GPT-3 de l'Open AI</p>
 
-<h3 id="markdown">Markdown</h3>
+<h3 id="Son principe">Son principe</h3>
 
-<p>Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for</p>
+<p>Common Crawl est un projet qui vise à créer et à fournir un accès gratuit et ouvert à un vaste ensemble de données web. L'objectif principal de Common Crawl est de promouvoir l'accessibilité et l'utilisation des données du web pour la recherche et l'innovation. Voici quelques points clés à connaître sur Common Crawl. Common Crawl collecte des données et permet un accès libre et gratuit au public ce qui est notamment important pour les développeurs.</p>
 
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Syntax highlighted code block
 
