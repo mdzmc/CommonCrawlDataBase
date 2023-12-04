@@ -1,5 +1,4 @@
 # CommonCrawlDataBase
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset='utf-8'>
@@ -55,7 +54,7 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>La_base_de_données_Common_Crawl</h1>
+            <h1>Common Crawl</h1>
             <h2></h2>
           </span>
           <span class="left-tail"></span>
@@ -93,59 +92,21 @@
 
 <p>Common Crawl est un projet qui vise à créer et à fournir un accès gratuit et ouvert à un vaste ensemble de données web. L'objectif principal de Common Crawl est de promouvoir l'accessibilité et l'utilisation des données du web pour la recherche et l'innovation. Voici quelques points clés à connaître sur Common Crawl. Common Crawl collecte des données et permet un accès libre et gratuit au public ce qui est notamment important pour les développeurs.</p>
 
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Syntax highlighted code block
-
-<span class="gh">#Interviews</span>
-<span class="gu">## Les créateures et dirigeants de Common Crawl</span>
-<span class="gu">### Rich Skrienta</span>
-<span class="p">
--</span> Bulleted
-<span class="p">-</span> List
-<span class="p">
-1.</span> Numbered
-<span class="p">2.</span> List
-
-<span class="gs">**Bold**</span> and _Italic_ and <span class="sb">`Code`</span> text
-
-<span class="p">[</span><span class="nv">Link</span><span class="p">](</span><span class="sx">url</span><span class="p">)</span> and !<span class="p">[</span><span class="nv">Image</span><span class="p">](</span><span class="sx">src</span><span class="p">)</span>
 </code></pre></div></div>
 <iframe width="624" height="386" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/F2iG1hUXIAEEm3_.png"></iframe>
 
-<p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même:<a href="https://commoncrawl.org/overview">GitHub Flavored Markdown</a>.</p>
+<p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même:<a href="https://commoncrawl.org/overview"> Organisation: Common Craw</a>.</p>
 
-<h3 id="jekyll-themes">Jekyll Themes</h3>
-
-<ul>
-  <li>Architect</li>
-  <li>Cayman</li>
-  <li>Dinky</li>
-  <li>Hacker</li>
-  <li>Leap day</li>
-  <li>Merlot</li>
-  <li>Midnight</li>
-  <li>Minima</li>
-  <li>Minimal</li>
-  <li>Modernist</li>
-  <li>Slate</li>
-  <li>Tactile</li>
-  <li>Time machine</li>
-</ul>
-
-<p><a href="https://pages.github.com/themes/">https://pages.github.com/themes/</a></p>
-
-<p>Your Pages site will use the layout and styles from the Jekyll theme you have selected in your <a href="https://github.com/jphcoi/public_project/settings">repository settings</a>. The name of this theme is saved in the Jekyll <code class="language-plaintext highlighter-rouge">_config.yml</code> configuration file.</p>
-
-<h3 id="support-or-contact">Support or Contact</h3>
 <h1 id="Interviews">Interviews</h1>
-<h2 id="Les créateurs et gérants de Common Crawl">Les créateurs et gérants de Common Crawl</h2>
+<h2 id="Une interview with l'exectuve director actuel de Common Crawl</h2>
 <h3 id="Rich Skrenta">Rich Skrenta</h3>
-<p>Lors de son interviez, Rich Skrenta a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">team support</a> pour en apprendre plus.</p>
-
-<p>Une base de données déjà très ancienne:</p>
-<div class="embed-container">
-  <iframe src="https://www.youtube.com/watch?v=QTlleyrFngU" width="700" height="480" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
+<p>Lors de son interviez, Rich Skrenta a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Rich Skrenta</a> pour en apprendre plus.</p>
+<h2 id="Une interview with chercheur acadèmique</h2>
+<h3 id="Rich Skrenta">François Yvon</h3>
+<p>Lors de son interviez, François Yvon a expliqué que ce type de base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
+<h2 id="Une interview avec une journaliste médias et tech</h2>
+<h3 id="Rich Skrenta">Margaux Vulliet</h3>
+<p>Lors de son interviez, Margaux Vulliet a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
 <p>Un effort constant pour améliorer le système contre les critiques et les limites actuelles (<a href="https://github.com/nathancy/jekyll-embed-video">https://github.com/nathancy/jekyll-embed-video</a>) notamment introduites sur twitter:</p>
 
@@ -159,9 +120,6 @@
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-
-              <p>this project by <a href="https://github.com/jphcoi">jphcoi</a> can be found on <a href="https://github.com/jphcoi/enquete_vie_sociale_donnees">GitHub</a></p>
-
 
           </span>
           <span class="left-tail"></span>
