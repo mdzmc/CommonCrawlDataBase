@@ -97,14 +97,14 @@
 <p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même:<a href="https://commoncrawl.org/overview"> Organisation: Common Craw</a>.</p>
 
 <h1 id="Interviews">Interviews</h1>
-<h2 id="Une interview avec l'exectuve director actuel de Common Crawl">Une interview avec l'executive director actuel de Common Crawl</h2>
-<h3 id="Rich Skrenta">Rich Skrenta</h3>
+<h2 id="Rich Skrenta">Rich Skrenta</h2>
+<h3 id="Une interview avec l'executive director actuel de Common Crawl">Une interview avec l'executive director actuel de Common Crawl</h3>
 <p>Lors de son interviez, Rich Skrenta a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Rich Skrenta</a> pour en apprendre plus.</p>
-<h2 id="Une interview avec un chercheur acadèmique>Une Interview avec un chercheur acadèmique</h2>
-<h3 id="Rich Skrenta">François Yvon</h3>
+<h2 id="François Yvon">François Yvon</h2>
+<h3 id="Une interview avec un chercheur acadèmique">Une interview avec un chercheur acadèmique</h3>
 <p>Lors de son interviez, François Yvon a expliqué que ce type de base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
-<h2 id="Une interview avec une journaliste médias et tech>Une interview avec une journaliste médias et techn</h2>
-<h3 id="Rich Skrenta">Margaux Vulliet</h3>
+<h2 id="Margaux Vulliet">Margaux Vulliet</h2>
+<h3 id="Une interview avec une journaliste médias et techn">Une interview avec une journaliste médias et tech</h3>
 <p> Dans l’optique de notre étude sur Common Crawl, nous avons eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
 <p>Margaux Vulliet a choisi d’écrire un article sur les bases de données comme Common Crawl parce que c’est un sujet d’actualité qui attire de plus en plus le public, notamment depuis la création de la dernière version gratuite et ouverte de chatgpt.<p>
 <p>Margaux Vulliet a noté que l’un des problèmes principalement notés est le problème des droits d’auteur lié au manque de reconnaissance d’utilisation de certains articles. C’est pour cela que le New York Times par exemple a demandé bloquer l’accès aux utilisateurs de Common Crawl pour leur archive du web. L’autre problème de ces bases de données est l’omniprésence de sites internet américains ou anglophones qui explique que l’Union Européenne souhaite développer sa propre archive du web. Le ministre chargé du numérique, Jean-Noël Barrot, a d’ailleurs noté ce problème et pousse actuellement pour le développement d’un Common Crawl européen.<p>
@@ -121,8 +121,6 @@
 </blockquote>
 
 
-      </section>
-
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
@@ -134,7 +132,3 @@
         <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
         <span class="octocat"></span>
       </footer>
-
-    </div>
-  </body>
-</html>
