@@ -92,21 +92,27 @@
 
 <p>Common Crawl est un projet qui vise à créer et à fournir un accès gratuit et ouvert à un vaste ensemble de données web. L'objectif principal de Common Crawl est de promouvoir l'accessibilité et l'utilisation des données du web pour la recherche et l'innovation. Voici quelques points clés à connaître sur Common Crawl. Common Crawl collecte des données et permet un accès libre et gratuit au public ce qui est notamment important pour les développeurs.</p>
 
-</code></pre></div></div>
 <iframe width="624" height="386" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/F2iG1hUXIAEEm3_.png"></iframe>
 
 <p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même:<a href="https://commoncrawl.org/overview"> Organisation: Common Craw</a>.</p>
 
 <h1 id="Interviews">Interviews</h1>
-<h2 id="Une interview with l'exectuve director actuel de Common Crawl</h2>
+<h2 id="Une interview avec l'exectuve director actuel de Common Crawl">Une interview avec l'executive director actuel de Common Crawl</h2>
 <h3 id="Rich Skrenta">Rich Skrenta</h3>
 <p>Lors de son interviez, Rich Skrenta a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Rich Skrenta</a> pour en apprendre plus.</p>
-<h2 id="Une interview with chercheur acadèmique</h2>
+<h2 id="Une interview avec un chercheur acadèmique>Une Interview avec un chercheur acadèmique</h2>
 <h3 id="Rich Skrenta">François Yvon</h3>
 <p>Lors de son interviez, François Yvon a expliqué que ce type de base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
-<h2 id="Une interview avec une journaliste médias et tech</h2>
+<h2 id="Une interview avec une journaliste médias et tech>Une interview avec une journaliste médias et techn</h2>
 <h3 id="Rich Skrenta">Margaux Vulliet</h3>
-<p>Lors de son interviez, Margaux Vulliet a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
+<p> Dans l’optique de notre étude sur Common Crawl, nous avons eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
+<p>Margaux Vulliet a choisi d’écrire un article sur les bases de données comme Common Crawl parce que c’est un sujet d’actualité qui attire de plus en plus le public, notamment depuis la création de la dernière version gratuite et ouverte de chatgpt.<p>
+<p>Margaux Vulliet a noté que l’un des problèmes principalement notés est le problème des droits d’auteur lié au manque de reconnaissance d’utilisation de certains articles. C’est pour cela que le New York Times par exemple a demandé bloquer l’accès aux utilisateurs de Common Crawl pour leur archive du web. L’autre problème de ces bases de données est l’omniprésence de sites internet américains ou anglophones qui explique que l’Union Européenne souhaite développer sa propre archive du web. Le ministre chargé du numérique, Jean-Noël Barrot, a d’ailleurs noté ce problème et pousse actuellement pour le développement d’un Common Crawl européen.<p>
+<p>D’après ce qu’elle a pu constater lors de ces différentes recherches sur chatgpt, Margaux Vulliet a remarqué une peur, notamment dans le domaine du journalisme, de se faire remplacer par chatgpt ou l’intelligence artificielle. C’est déjà le cas dans certaines petites villes américaines où les IA affichent directement le résultat de match de sport aux communautés locales beaucoup plus rapidement qu’aucun journaliste ne pourrait le faire. D’un autre côté, Margaux Vulliet voit aussi une énorme aide en chatgpt qui permet d’analyser des centaines de documents en quelques secondes par rapport à des heures de travail pour un humain. De plus, comme chatgpt ne pourra jamais remplacer le journaliste de terrain, toute la partie enquête, mais peut aider avec la recherche et le développement d’idées, Margaux Vulliet voit plutôt l’IA comme un atout pour eux actuellement.<p>
+<p> En revanche, Margaux Vulliet remarque un risque dans l’utilisation de chatgpt particulièrement liée à l’opacité de sa base de données et des informations que le logiciel fournit aux utilisateurs. Pour elle, les programmeurs de chatgpt ont déjà fait beaucoup d’efforts pour réduire les risques de racisme ou d’antisémitisme ou tout autre propos inquiétant que peut avoir chatgpt dès qu’ils ont eu vent du problème. Elle note que beaucoup d’IA répondent désormais qu’ils ne peuvent pas répondre à des sujets sensibles et parfois même dirige directement les utilisateurs vers des liens de soutien (par exemple des liens contre le suicide).<p>
+
+
+<p>Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
 <p>Un effort constant pour améliorer le système contre les critiques et les limites actuelles (<a href="https://github.com/nathancy/jekyll-embed-video">https://github.com/nathancy/jekyll-embed-video</a>) notamment introduites sur twitter:</p>
 
