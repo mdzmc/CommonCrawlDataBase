@@ -54,7 +54,7 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>Common Crawl</h1>
+            <h1></h1>
             <h2></h2>
           </span>
           <span class="left-tail"></span>
@@ -76,7 +76,7 @@
       <section id="main_content">
         <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h1 id="enquete-sur-la-vie-sociale-des-données">Enquete sur la vie sociale des données</h1>
+<h1 id="La-vie-sociale-des-données : Common Crawl">La vie sociale des données: Common Crawl</h1>
 
 <h2 id="introduction">Introduction</h2>
 
@@ -94,12 +94,12 @@
 
 <iframe width="624" height="386" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/F2iG1hUXIAEEm3_.png"></iframe>
 
-<p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même:<a href="https://commoncrawl.org/overview"> Organisation: Common Craw</a>.</p>
+<p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même:<a href="https://commoncrawl.org/overview">Site Officiel: Common Crawl</a>.</p>
 
 <h1 id="Interviews">Interviews</h1>
 <h2 id="Rich Skrenta">Rich Skrenta</h2>
 <h3 id="Une interview avec l'executive director actuel de Common Crawl">Une interview avec l'executive director actuel de Common Crawl</h3>
-<p>Lors de son interviez, Rich Skrenta a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Rich Skrenta</a> pour en apprendre plus.</p>
+<p>Lors de son interviez, Rich Skrenta a expliqué que cette base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 <h2 id="François Yvon">François Yvon</h2>
 <h3 id="Une interview avec un chercheur acadèmique">Une interview avec un chercheur acadèmique</h3>
 <p>Lors de son interviez, François Yvon a expliqué que ce type de base de données ... Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
@@ -114,7 +114,8 @@
 
 <p>Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
-<p>Un effort constant pour améliorer le système contre les critiques et les limites actuelles (<a href="https://github.com/nathancy/jekyll-embed-video">https://github.com/nathancy/jekyll-embed-video</a>) notamment introduites sur twitter:</p>
+<h1 id="Updates via les réseaux sociaux">Updates via les réseaux sociaux</h1>
+<p>Un effort constant de partager les nouveautés et les actualités de l'organisation avec le public notamment à travers twitter:</p>
 
 <blockquote class="twitter-tweet">
   <a href="[https://twitter.com/commoncrawl/status/1671408229589581825?s=46&t=aj6GX9IxEIsWGRYl-HJUjg]"></a>
