@@ -109,14 +109,14 @@ Avant de travailler pour Common Crawl, Rich Skrenta a travaillé chez Meta notam
 <p>De même, leur rôle n’est pas d’entraîner l’IA (« to train the AI ») pour filtrer ces informations et réutiliser leurs données de manière responsable ou raisonnable notamment parce qu’il y a trop de manière d’interpréter le web (« there is too many different ways to interpret the web which is what research is for »). 
 Le problème actuel est plutôt la représentativité des langues. Actuellement, même si Common Crawl a déjà archivé des url dans environ 230 langues, environ 58% des sites internet déjà récoltés par Common Crawl sont en anglais. Certains programmeurs, notamment en Indonésie, ont contacté Common Crawl pour demander un travail plus inclusif des autres langues présentes sur le web.<p>
 
-<p>Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
+<p>Regardez l'intégralité de l'interview <a href="https://www.ipefdakar.org/IMG/pdf/l_interview_conseils.pdf">Rich Skrenta's Interview</a> ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 
 <h2 id="François Yvon">François Yvon</h2>
 <h3 id="Une interview avec un chercheur acadèmique">Une interview avec un chercheur acadèmique</h3>
 
 <p> Pour ce projet, nous avons eu l'honneur d'interviewer François Yvon, un chercheur en LLM (Large Language Models) qui n'utilise pas directement Common Crawl mais qui produit des modèles qui l'utilise. François Yvon travaille principalement sur tout ce qui concerne "le multilinguisme, la traduction automatique et les grands modèles." Il explique que le problème majeur actuellement était principalement sur la représentation de l'anglais par rapport aux autres langues. Pour une représentation plus juste et plus réaliste des informations présentent sur internet, il faudrait une essayer d’approcher les langues de manière plus égalitaire.<p>
 
-<p>Regardez l'intégralité de l'interview <a href="file:///Users/marieseguy/Downloads/Document%20sans%20titre.pdf">documentation</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
+<p>Regardez l'intégralité de l'interview <a href="file:///Users/marieseguy/Downloads/Document%20sans%20titre.pdf">Transcription de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
 <h2 id="Margaux Vulliet">Margaux Vulliet</h2>
 <h3 id="Une interview avec une journaliste médias et techn">Une interview avec une journaliste médias et tech</h3>
 <p> Dans l’optique de notre étude sur Common Crawl, nous avons eu également le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
