@@ -228,6 +228,22 @@ LOCATION 's3://commoncrawl/cc-index/table/cc-main/warc/';
 
 <h3 id="Troisième étape: Dénombrement des domaines francophones représentées plus de 100 fois">Troisième étape: Dénombrement des domaines francophones représentées plus de 100 fois</h3>
 
+<p>SELECT COUNT(*) AS count,
+       url_host_registered_domain
+FROM "ccindex"."ccindex"
+WHERE crawl = 'CC-MAIN-2023-40'
+  AND subset = 'warc'
+  AND url_host_tld = 'fr'
+GROUP BY  url_host_registered_domain
+HAVING (COUNT(*) >= 100)
+ORDER BY  count DESC<p> 
+
+<h3 id="Quatrième étape: Résultat obtenu">Quatrième étape: Résultat obtenu</h3>
+
+<p> 5 premières lignes : 142792 = free.fr ; 418451 = lefigaro.fr ; 361559 = cnrs.fr ; 199026 = online.fr ; 165030 = orange.fr</p>
+
+<h3 id="L'analyse des données">L'analyse des données</h3>
+
 <p>ajouter la photo du graphisme </p>
 
 <p>En analysant les cinq cents sites web utilisées par Common Crawl, nous avons pu noter qu’un quart des sites traitent d’un sujet commercial (26%), 17% traitent de sujets culturels face à seulement 5% en matière académique et 3% en matière politique/ religieuse mais aussi en sport. Également, 12% des sites fournissent des informations, 11% ont un objet professionnel, 9% portent sur l’Administration et 6% d’entre eux abordent le développement personnel. Enfin, avec un taux très faible, 2% des sites ont un objet illicite, 1% portent sur les sciences/statistiques et 1% également concernant l’économie et la finance. Enfin, sur ces cinq sites sélectionnés au hasard, aucun ne portait sur un sujet juridique. </p>
@@ -235,9 +251,6 @@ LOCATION 's3://commoncrawl/cc-index/table/cc-main/warc/';
 <p>ajouter la deuxième photo du graphisme</p>
 
 <p>Concernant le type de documents proposés dans chaque site, la plupart de ces plateformes sont des sites de ventes (28%). Durant notre enquête, nous avons également trouvé de nombreux blogs (17%), puis dans une moindre mesure des presses (8%), des sites d’identification (6%), de recherche (6%), événementiel (6%) et associatif (6%). Les types de documents les moins représentés dans cet échantillon sont les forums, les vidéos/photos à hauteur de 4%. Puis les sites personnels et les journaux à 3% et enfin les annuaires et les encyclopédies qui correspondent à seulement 2% des tous ces sites.</p>
-<h3 id="Résultat obtenu">Résultat obtenu</h3>
-
-<h3 id="Analyse des données>Analyse des données</h3>
 
 <h1 id="Updates via les réseaux sociaux">Updates via les réseaux sociaux</h1>
 <p>Un effort constant de partager les nouveautés et les actualités de l'organisation avec le public notamment à travers twitter:</p>
