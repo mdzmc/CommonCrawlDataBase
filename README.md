@@ -120,8 +120,9 @@ Cette ressource considérable a joué un rôle essentiel dans le développement 
  
 L'initiative utilise également des méthodes d'échantillonnage pour tenter de garantir une représentation variée dans son index. Cependant, les données collectées peuvent être influencées par des biais inhérents au web, tels que des régions géographiques sur-représentées ou des secteurs d'activité plus fréquemment indexés. Ces pratiques de collecte soulèvent des préoccupations concernant la qualité, la neutralité et la représentativité des données extraites, pouvant potentiellement impacter la fiabilité des informations fournies pour la recherche et le développement.<p>
 
-<p> Pour aller plus loin: <p> 
-<iframe src="https://youtu.be/0Cca3Mqa2hA" width="700" height="480" frameborder="0" allowfullscreen="true"></iframe>
+<p> Pour aller plus loin:<p>
+  <iframe src="https://youtu.be/0Cca3Mqa2hA" width="700" height="480" frameborder="0" allowfullscreen="true">
+  </iframe>
 
 <h1 id="Méthodologie de l'enquête">Méthodologie de l'enquête</h1>
 
@@ -241,6 +242,8 @@ Rich Skrenta est un programmeur informatique américain et entrepreneur de la Si
 <h3 id="Quatrième étape: Résultat obtenu">Quatrième étape: Résultat obtenu</h3>
 
 <p> 5 premières lignes : 142792 = free.fr ; 418451 = lefigaro.fr ; 361559 = cnrs.fr ; 199026 = online.fr ; 165030 = orange.fr</p>
+
+<p>Regardez <a href="https://docs.google.com/spreadsheets/d/1-1nmO2qQYdBU6d9_HH1OjAhMYWz4gSsP/edit#gid=1641676625">l'analyse des 500 url</a> pour avoir plus de détails.</p>
 
 <h2 id="L'analyse des données">L'analyse des données</h2>
 
