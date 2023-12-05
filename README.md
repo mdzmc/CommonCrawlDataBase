@@ -121,10 +121,7 @@ Cette ressource considérable a joué un rôle essentiel dans le développement 
 L'initiative utilise également des méthodes d'échantillonnage pour tenter de garantir une représentation variée dans son index. Cependant, les données collectées peuvent être influencées par des biais inhérents au web, tels que des régions géographiques sur-représentées ou des secteurs d'activité plus fréquemment indexés. Ces pratiques de collecte soulèvent des préoccupations concernant la qualité, la neutralité et la représentativité des données extraites, pouvant potentiellement impacter la fiabilité des informations fournies pour la recherche et le développement.<p>
 
 <p> Pour aller plus loin:<p>
-<div class="embed-container">
-  <iframe src="https://www.youtube.com/watch?v=sdtnQ_qluIo" width="400" height="380" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AicEmIeuuLw" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h1 id="Méthodologie de l'enquête">Méthodologie de l'enquête</h1>
 
