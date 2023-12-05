@@ -165,7 +165,7 @@ Rich Skrenta est un programmeur informatique américain et entrepreneur de la Si
   
 <p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résume de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
-<h1 id="Méthodologie de l'enquête">Méthodologie de l'enquête</h1>
+<h1 id="Méthodologie d'extraction de données">Méthodologie d'extraction des données</h1>
 
 <p>Pour le deuxième volet de notre analyse, nous avons tenté d’aller au contact même de la base de données et d’en extraire par nous-mêmes certaines informations. Pour cela nous avons concentré notre analyse sur le crawl d’octobre 2023 (CC-MAIN-2023-40).<p>
 
@@ -180,6 +180,8 @@ Rich Skrenta est un programmeur informatique américain et entrepreneur de la Si
 <p>Enfin, nous avons également extrait 500 urls francophone aléatoires afin de les examiner un par un et de les catégoriser en fonction du type de site web (blog, presse, site de vente…) et du sujet traité (commercial, scientifique, information, culture…). Définir de telles catégories et le niveau de détail s’est révélé ardu étant donné la diversité des contenus. Nous nous sommes donc arrêtés sur celles présentées à la page suivante, qui nous permettent d’obtenir une première vue d’ensemble du type de sites francophones inclues dans le crawl d’octobre 2023.<p> 
 
 <p>Exemple d'une requête SQL pour trouver les domaines francophones représentés plus de 100 fois: <p>
+
+<h2 id="Le processus">Le processus</h2>
 
 <h3 id="Première étape: Création de la base de données">Première étape: Création de la base de données</h3>
 
@@ -240,7 +242,7 @@ Rich Skrenta est un programmeur informatique américain et entrepreneur de la Si
 
 <p> 5 premières lignes : 142792 = free.fr ; 418451 = lefigaro.fr ; 361559 = cnrs.fr ; 199026 = online.fr ; 165030 = orange.fr</p>
 
-<h3 id="L'analyse des données">L'analyse des données</h3>
+<h2 id="L'analyse des données">L'analyse des données</h2>
 
 <p>ajouter la photo du graphisme </p>
 
