@@ -141,27 +141,23 @@ L'initiative utilise également des méthodes d'échantillonnage pour tenter de 
 
 <h3 id="Une interview avec l'executive director actuel de Common Crawl : Rich Skrenta">Une interview avec l'executive director actuel de Common Crawl : Rich Skrenta</h3>
 
-<p> Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d’une telle base de données, il est essentiel de donner la parole à ceux qui sont directement impliqués dans la recherche de solutions. Dans cette optique, nous avons eu le privilège de mener une interview approfondie avec Rich Skrenta, l’executive director actuel de Common Crawl, le 29 novembre 2023 à travers Googlemeet.
-
-Rich Skrenta est un programmeur informatique américain et entrepreneur de la Silicon Valley qui a créé le moteur de recherche internet Blekko. Avant de travailler pour Common Crawl, Rich Skrenta a travaillé chez Meta notamment comme « web crawler » et a créé « a search engine » qu’il a ensuite revendu avant de se consacrer entièrement à la mission de Common Crawl.<p>
+<p> Rich Skrenta est un programmeur informatique américain et entrepreneur de la Silicon Valley qui a créé le moteur de recherche internet Blekko. Avant de travailler pour Common Crawl, Rich Skrenta a travaillé chez Meta notamment comme « web crawler » et a créé « a search engine » qu’il a ensuite revendu avant de se consacrer entièrement à la mission de Common Crawl.
+  
+Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d’une telle base de données, il est essentiel de donner la parole à ceux qui sont directement impliqués dans la recherche de solutions. Ainsi pour comprendre l'origine, le fonctionnement, ainsi que les objectifs de ce projet, nous avons eu le privilège de mener une interview approfondie avec Rich Skrenta, l’executive director actuel de Common Crawl, le 29 novembre 2023 à travers Googlemeet. Rich Skrenta nous a expliqué leur ambition de créer une archive du web gratuite et ouverte au public pour le développement de la recherche et de l'innovation.<p> 
 
 <p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résumé de l'interview</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 
 <h3 id="Une interview avec un rechercheur: François Yvon">Une interview avec un rechercheur : François Yvon</h3>
 
-<p> Tout d’abord, nous avons eu le plaisir d’interviewer François Yvon, un spécialiste du traitement automatique des langues, un domaine à la frontière entre l’IA, l’informatique et la linguistique. François Yvon est actuellement directeur de recherche Centre national de la recherche scientifique (CNRS) et exerce ses fonctions dans l'équipe MLIA (Machine Learning & Deep Learning for Imformation Access) de l'Institut des systèmes intelligents et de robotique (ISIR - CNRS/Sorbonne Université). Titulaire d'un doctorat en informatique de l'École Nationale Supérieure des Télécommunications (ENST) (1996), il y est recruté comme maître de conférences au sein du département Informatique et réseaux, puis est nommé professeur d'informatique à l'Université Paris-Sud en 2007. Il rejoint à cette occasion le LIMSI-CNRS (aujourd'hui le Laboratoire Interdisciplinaire des Sciences du Numérique, LISN - CNRS/Université Paris-Saclay) à Orsay et développe les activités de traduction automatique au sein de l'équipe Traitement du langage parlé. Il intègre le CNRS pendant son mandat de directeur du LIMSI (2013-2019). En juillet 2023, il intègre l’Institut des systèmes intelligents et de robotique (ISIR).<p>
- 
-<p>Ses activités de recherche couvrent un large spectre de thématiques en traitement automatique des langues, de la morphologie computationnelle à la fouille de textes et les méthodes d'apprentissage structurées. Il se concentre aujourd'hui sur les traitements multilingues, à ces fins il a été impliqué dans le développement de BLOOM également appelé BigScience Large Open-science Open-access Multilingual language Model qui est un modèle linguistique de grande taille basé sur un transformateur. Il a été créé par des chercheurs en intelligence artificielle afin de fournir un modèle linguistique gratuit à grande échelle accessible au public.<p>
- 
-<p>Ayant une grande expertise dans le domaine des Large Langage Model, il est souvent confronté à des utilisateurs de Common crawl car étant l’une des ressources principales pour obtenir de nombreuses données multilingues, ses modèles sont obligés d’utiliser cette base de données.<p>
+<p> Ensuite, pour mieux comprendre la valeur d'une base de données comme common crawl sur un plan pratique d'entrainement d'IA et ses limites techniques, nous avons eu le plaisir d’interviewer François Yvon, un spécialiste du traitement automatique des langues, un domaine à la frontière entre l’IA, l’informatique et la linguistique. François Yvon est actuellement directeur de recherche Centre national de la recherche scientifique (CNRS) et exerce ses fonctions dans l'équipe MLIA (Machine Learning & Deep Learning for Imformation Access) de l'Institut des systèmes intelligents et de robotique (ISIR - CNRS/Sorbonne Université). 
+  
+Ses activités de recherche couvrent un large spectre de thématiques en traitement automatique des langues, de la morphologie computationnelle à la fouille de textes et les méthodes d'apprentissage structurées. Il se concentre aujourd'hui sur les traitements multilingues, à ces fins il a été impliqué dans le développement de BLOOM également appelé BigScience Large Open-science Open-access Multilingual language Model qui est un modèle linguistique de grande taille basé sur un transformateur. Il a été créé par des chercheurs en intelligence artificielle afin de fournir un modèle linguistique gratuit à grande échelle accessible au public. Parmis beaucoup d'autres informations, François Yvon nous a aidé à comprendre les limites actuelles des programmes comme Common Crawl notamment liés à la surreprésentation de l'anglais par rapport aux autres langues dans le monde.<p>
 
-<p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">Transcription mot pour mot de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
+<p> Lisez la <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">Transcription mot pour mot de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
 
 <h3 id="Une interview avec une journaliste: Margaux Vulliet">Une interview avec une journalise : Margaux Vulliet</h3>
 
-<p> Dans l’optique de notre étude sur Common Crawl, nous avons également eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
-  
-<p>Établie en tant que journaliste médias et tech, Margaux a effectué son alternance chez Médianes. Après un an au service Tech&Co de BFMTV, elle est actuellement aux États-Unis pour explorer les initiatives des médias.<p>
+<p> Enfin, pour avoir un regard journalistique critique qui peut éclairer sur les enjeux sociétaux et juridiques d'utilisation de Common Crawl, nous avons également eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
   
 <p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résume de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
@@ -260,6 +256,9 @@ Rich Skrenta est un programmeur informatique américain et entrepreneur de la Si
 <blockquote class="twitter-tweet">
   <a href="[https://twitter.com/commoncrawl/status/1671408229589581825?s=46&t=aj6GX9IxEIsWGRYl-HJUjg]"></a>
 </blockquote>
+
+<h1 id="Découvrez par vous même les premiers mots sur ce projet avec Gil Elbaz">Découvrez par vous même les premiers mots sur ce projet avec Gil Elbaz</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?feature=shared&embeds_referring_euri=https%3A%2F%2Fcommoncrawl.org%2F&source_ve_path=MTY0OTksMjg2NjQsMTY0NTA2&feature=emb_share&v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
       <footer>
