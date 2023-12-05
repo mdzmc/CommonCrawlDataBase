@@ -121,10 +121,8 @@ Cette ressource considérable a joué un rôle essentiel dans le développement 
 L'initiative utilise également des méthodes d'échantillonnage pour tenter de garantir une représentation variée dans son index. Cependant, les données collectées peuvent être influencées par des biais inhérents au web, tels que des régions géographiques sur-représentées ou des secteurs d'activité plus fréquemment indexés. Ces pratiques de collecte soulèvent des préoccupations concernant la qualité, la neutralité et la représentativité des données extraites, pouvant potentiellement impacter la fiabilité des informations fournies pour la recherche et le développement.<p>
 
 <p> Pour aller plus loin: <p> 
-<div class="embed-container">
-  <iframe src="https://youtu.be/0Cca3Mqa2hA" width="700" height="480" frameborder="0" allowfullscreen="true">
+<iframe src="https://youtu.be/0Cca3Mqa2hA" width="700" height="480" frameborder="0" allowfullscreen="true">
   </iframe>
-</div>
 
 <h1 id="Méthodologie de l'enquête">Méthodologie de l'enquête</h1>
 
@@ -189,6 +187,44 @@ Rich Skrenta est un programmeur informatique américain et entrepreneur de la Si
 <p>CREATE DATABASE ccindex;<p>
   
 <h3 id="Deuxième étape: Création du tableau contenant les valeurs et synchronisation avec les données Common Crawl">Deuxième étape: création du tableau contenant les valeurs et les synchronisation avec les données Common Crawl</h3>
+
+<p>CREATE EXTERNAL TABLE IF NOT EXISTS ccindex (
+  url_surtkey                               STRING,
+  url                                             STRING,
+  url_host_name                         STRING,
+  url_host_tld                              STRING,
+  url_host_2nd_last_part            STRING,
+  url_host_3rd_last_part             STRING,
+  url_host_4th_last_part             STRING,
+  url_host_5th_last_part             STRING,
+  url_host_registry_suffix            STRING,
+  url_host_registered_domain    STRING,
+  url_host_private_suffix             STRING,
+  url_host_private_domain         STRING,
+  url_host_name_reversed         STRING,
+  url_protocol                              STRING,
+  url_port                                     INT,
+  url_path                                    STRING,
+  url_query                                  STRING,
+  fetch_time                                TIMESTAMP,
+  fetch_status                             SMALLINT,
+  fetch_redirect                           STRING,
+  content_digest                         STRING,
+  content_mime_type                 STRING,
+  content_mime_detected          STRING,
+  content_charset                       STRING,
+  content_languages                  STRING,
+  content_truncated                    STRING,
+  warc_filename                         STRING,
+  warc_record_offset                INT,
+  warc_record_length               INT,
+  warc_segment                       STRING)
+PARTITIONED BY (
+  crawl                                      STRING,
+  subset                                    STRING)
+STORED AS parquet
+LOCATION 's3://commoncrawl/cc-index/table/cc-main/warc/';
+</p>
 
 <h3 id="Troisième étape: Dénombrement des domaines francophones représentées plus de 100 fois">Troisième étape: Dénombrement des domaines francophones représentées plus de 100 fois</h3>
 
