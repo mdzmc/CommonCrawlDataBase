@@ -1,4 +1,4 @@
-# CommonCrawlDataBase
+# Common Crawl Data Base
 <html lang="en-US">
   <head>
     <meta charset='utf-8'>
@@ -80,21 +80,51 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<h3 id="Overview de la base de données">Overview de la base de données</h3>
-
-<p>Nous verrons d'abord l'histoire de cette base de données avant d'expliquer son fonctionnement</p>
-
+<p>Le « Common Crawl Data Set » (plus souvent appelé « Common Crawl ») est un jeu de données extrêmement riche, proposé au public par une organisation éponyme à but non-lucratif d’origine américaine. Les archives incorporées dans ce jeu remontent jusqu’à 2008, et il est mis à jour à une fréquence mensuelle. Le code permettant le traitement de ses données est open source, et depuis 2012, Amazon Web Services permet également l’accès au Common Crawl à travers son « public data set ».<p>
+  
 <p><img src="https://24pm.com/images/2023/04/21/chat-gpt-data-sources.jpg"/></p>
 
-<p>Cette base de données a été créé par Gil Elbaz en Californie dans la Sillicon Valley en 2008 et a été utilisé pour la première fois par Amazon en 2011. Common Crawl est une non-profit organization toujours actuellement dirigé par Gil Elbaz avec l'aide de Rich Skirenta, Greg Lindhal et Sébastien Nagel. En 2020, cette base de données a été utilisé pour entraîner le modèle linguistique GPT-3 de l'Open AI</p>
+<p>Ce jeu de données est considéré comme l’un des plus conséquents au monde, et est composé à plus ou moins 46% de documents anglophones. Le Common Crawl a notamment été utilisé pour entraîner le grand modèle de langage GPT-3 d’Open AI.<p>
+ 
+<p>En vue des nombreuses controverses autour de ce jeu de données, notamment liées à son utilisation de site protégés ou des inégalités linguistiques dans ses sources, le présent site cherche à contribuer à l’analyse critique de son contenu.<p>
 
-<h3 id="Son principe">Son principe</h3>
+<h2 id="Aperçu de Common Crawl">Aperçu de Common Crawl</h2>
 
-<p>Common Crawl est un projet qui vise à créer et à fournir un accès gratuit et ouvert à un vaste ensemble de données web. L'objectif principal de Common Crawl est de promouvoir l'accessibilité et l'utilisation des données du web pour la recherche et l'innovation. Voici quelques points clés à connaître sur Common Crawl. Common Crawl collecte des données et permet un accès libre et gratuit au public ce qui est notamment important pour les développeurs.</p>
+<h3 id="L'histoire de Common Crawl">L'histoire de Common Crawl</h3>
 
-<iframe width="624" height="386" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/F2iG1hUXIAEEm3_.png"></iframe>
+<p>La base de données "Common Crawl" a été lancée en 2008 par Gil Elbaz, fondateur de la société de technologie de la publicité Applied Semantics, et par d'autres acteurs majeurs du domaine de la technologie et de la recherche. Elle a été créée dans le but de collecter et d'archiver des données provenant de milliards de pages web à travers le monde.
+ 
+Au fil des années, cette initiative a pris de l'ampleur, atteignant des dimensions impressionnantes. En 2021, la base de données "Common Crawl" avait indexé et stocké plus de 100 milliards de pages web, totalisant des pétaoctets d'informations. Ce corpus de données massif est continuellement mis à jour à travers des crawls réguliers du web, permettant ainsi d'offrir un accès à jour et étendu à des chercheurs, des développeurs et des organisations dans le monde entier.
+ 
+Cette ressource considérable a joué un rôle essentiel dans le développement de nombreuses technologies, notamment dans le domaine de l'intelligence artificielle, du traitement du langage naturel, de la recherche en sciences sociales, et bien d'autres. La base de données "Common Crawl" est devenue un pilier fondamental pour la recherche et l'innovation, offrant un accès libre et ouvert à des quantités massives de données web pour des applications variées.</p>
 
-<p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même:<a href="https://commoncrawl.org/overview">Site Officiel: Common Crawl</a>.</p>
+<iframe width="624" height="386" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
+
+<p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même: <a href="https://commoncrawl.org/overview">Site Officiel: Common Crawl</a>.</p>
+
+<h3 id="Gestionnaire">Gestionnaire</h3>
+
+<p>L’équipe de l’organisation comporte une vingtaine d’individus, dont neuf sont actifs dans le ‘Advisory Board’. A la tête du Common Crawl se trouve le fondateur, Gil Elbaz, suivi de Rich Skrenta, le directeur exécutif, ainsi qui Greg Lindahl, le directeur technique en chef. Parmi les ingénieurs se trouvent Sebastian Nagel, Julien Nioche, ou encore Paul Lazar.<p>
+  
+<p>La liste complète des gestionnaires du Common Crawl est disponible <a href="https://commoncrawl.org/team">Ici</a>.<p> 
+ 
+<p>Nous sommes honorés d’avoir pu nous entretenir avec le Directeur Executif, Rich Skrenta, au sujet de ce projet.<p>
+
+<h3 id="Financement">Financement</h3>
+
+<p> Au-delà du financement par la fondation personnelle de Gil Elbaz, la base de données "Common Crawl" tire ses financements de différentes sources. Les subventions provenant de fondations philanthropiques comme la Fondation Bill & Melinda Gates, la Fondation Alfred P. Sloan et la Fondation Gordon & Betty Moore jouent un rôle majeur dans le financement à long terme de l'initiative. Ces subventions sont généralement allouées pour des projets spécifiques visant à améliorer les capacités de collecte de données, à développer de nouvelles technologies d'indexation ou à rendre les données plus accessibles aux utilisateurs finaux.<p>
+
+<p>En outre, "Common Crawl" reçoit des soutiens financiers substantiels de la National Science Foundation (NSF) aux États-Unis et de l'Union européenne, à travers des programmes de financement de la recherche ou des initiatives liées à l'innovation technologique. Ces fonds contribuent à la réalisation des crawls réguliers, à l'infrastructure serveur et au développement d'outils pour l'analyse des données. L'organisation établit également des partenariats avec des entreprises technologiques majeures (comme Digital Pebble, DuckDuck Go ou ML Commons), offrant des accès privilégiés à la base de données en échange de soutien financier ou de ressources matérielles pour l'infrastructure informatique.<p>
+
+<h3 id="Sources">Sources</h3>
+
+<p>Common Crawl" collecte des données en utilisant des robots d'indexation sur une variété de sources en ligne accessibles au public, telles que des sites web publics, des forums et des réseaux sociaux. Ces robots parcourent le web en suivant les liens hypertextes pour enregistrer le contenu des pages. Ils sont supposés respecter les directives d'exclusion des robots (fichiers robots.txt) pour limiter la collecte selon les indications des sites visités.
+ 
+L'initiative utilise également des méthodes d'échantillonnage pour tenter de garantir une représentation variée dans son index. Cependant, les données collectées peuvent être influencées par des biais inhérents au web, tels que des régions géographiques sur-représentées ou des secteurs d'activité plus fréquemment indexés. Ces pratiques de collecte soulèvent des préoccupations concernant la qualité, la neutralité et la représentativité des données extraites, pouvant potentiellement impacter la fiabilité des informations fournies pour la recherche et le développement.<p>
+
+<p> Pour aller plus loin <p> 
+
+<h1 id="Méthodologie">Méthodologie</h1>
 
 <h1 id="Interviews">Interviews</h1>
 <h2 id="Rich Skrenta">Rich Skrenta</h2>
