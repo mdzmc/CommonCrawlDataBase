@@ -121,8 +121,7 @@ Cette ressource considérable a joué un rôle essentiel dans le développement 
 L'initiative utilise également des méthodes d'échantillonnage pour tenter de garantir une représentation variée dans son index. Cependant, les données collectées peuvent être influencées par des biais inhérents au web, tels que des régions géographiques sur-représentées ou des secteurs d'activité plus fréquemment indexés. Ces pratiques de collecte soulèvent des préoccupations concernant la qualité, la neutralité et la représentativité des données extraites, pouvant potentiellement impacter la fiabilité des informations fournies pour la recherche et le développement.<p>
 
 <p> Pour aller plus loin: <p> 
-<iframe src="https://youtu.be/0Cca3Mqa2hA" width="700" height="480" frameborder="0" allowfullscreen="true">
-  </iframe>
+<iframe src="https://youtu.be/0Cca3Mqa2hA" width="700" height="480" frameborder="0" allowfullscreen="true"></iframe>
 
 <h1 id="Méthodologie de l'enquête">Méthodologie de l'enquête</h1>
 
@@ -188,55 +187,54 @@ Rich Skrenta est un programmeur informatique américain et entrepreneur de la Si
   
 <h3 id="Deuxième étape: Création du tableau contenant les valeurs et synchronisation avec les données Common Crawl">Deuxième étape: création du tableau contenant les valeurs et les synchronisation avec les données Common Crawl</h3>
 
-<p>CREATE EXTERNAL TABLE IF NOT EXISTS ccindex (
-  url_surtkey                               STRING,
-  url                                             STRING,
-  url_host_name                         STRING,
-  url_host_tld                              STRING,
-  url_host_2nd_last_part            STRING,
-  url_host_3rd_last_part             STRING,
-  url_host_4th_last_part             STRING,
-  url_host_5th_last_part             STRING,
-  url_host_registry_suffix            STRING,
-  url_host_registered_domain    STRING,
-  url_host_private_suffix             STRING,
-  url_host_private_domain         STRING,
-  url_host_name_reversed         STRING,
-  url_protocol                              STRING,
-  url_port                                     INT,
-  url_path                                    STRING,
-  url_query                                  STRING,
-  fetch_time                                TIMESTAMP,
-  fetch_status                             SMALLINT,
-  fetch_redirect                           STRING,
-  content_digest                         STRING,
-  content_mime_type                 STRING,
-  content_mime_detected          STRING,
-  content_charset                       STRING,
-  content_languages                  STRING,
-  content_truncated                    STRING,
-  warc_filename                         STRING,
-  warc_record_offset                INT,
-  warc_record_length               INT,
-  warc_segment                       STRING)
-PARTITIONED BY (
-  crawl                                      STRING,
-  subset                                    STRING)
-STORED AS parquet
-LOCATION 's3://commoncrawl/cc-index/table/cc-main/warc/';
-</p>
+<p>CREATE EXTERNAL TABLE IF NOT EXISTS ccindex (<p>
+<p>url_surtkley                  STRING<p>
+<p>url                           STRING<p>
+<p>url_host_name                 STRING<p>
+<p>url_host_tld                  STRING<p>
+<p>url_host__2nd_last_part       STRING<p>
+<p>url_host__3rd_last_part       STRING<p>
+<p>url_host__4th_last_part       STRING<p>
+<p>url_host__5th_last_part       STRING<p>
+<p>url_host__registry_suffix     STRING<p>
+<p>url_host_registered_domain    STRING<p>
+<p>url_host_private_suffix       STRING<p>
+<p>url_host_private_domain       STRING<p> 
+<p>url_host_name_reversed        STRING<p>
+<p>url_host_private_domain       STRING<p>  
+<p>url_protocol                  STRING<p>  
+<p>url_port                         INT<p> 
+<p>url_path                      STRING<p> 
+<p>url_query                     STRING<p> 
+<p>fetch_time                    STRING<p> 
+<p>fetch_status               TIMESTAMP<p>
+<p>fetch_redirect              SMALLINT<p> 
+<p>content_digest                STRING<p>  
+<p>content_mime_type             STRING<p> 
+<p>content_mime_detected         STRING<p> 
+<p>content_charset               STRING<p> 
+<p>content_languages             STRING<p> 
+<p>content_truncated             STRING<p> 
+<p>warc_record_offset               INT<p> 
+<p>warc_record_length               INT<p> 
+<p>warc_segment                 STRING)<p> 
+<p>PARTITIONED BY (                    <p>
+<p>crawl                         STRING<p> 
+<p>subset                       STRING)<p>   
+<p>STORED AS parquet                   <p>     
+<p>LOCATION 's3://commoncrawl/cc-index/table/cc-main/warc/';<p>
 
 <h3 id="Troisième étape: Dénombrement des domaines francophones représentées plus de 100 fois">Troisième étape: Dénombrement des domaines francophones représentées plus de 100 fois</h3>
 
-<p>SELECT COUNT(*) AS count,
-       url_host_registered_domain
-FROM "ccindex"."ccindex"
-WHERE crawl = 'CC-MAIN-2023-40'
-  AND subset = 'warc'
-  AND url_host_tld = 'fr'
-GROUP BY  url_host_registered_domain
-HAVING (COUNT(*) >= 100)
-ORDER BY  count DESC<p> 
+<p>SELECT COUNT(*) AS count,<p>
+       <p>url_host_registered_domain<p>
+<p>FROM "ccindex"."ccindex"<p>
+<p>WHERE crawl = 'CC-MAIN-2023-40'<p>
+  <p>AND subset = 'warc'<p>
+  <p>AND url_host_tld = 'fr'<p>
+<p>GROUP BY  url_host_registered_domain<p>
+<p>HAVING (COUNT(*) >= 100)<p>
+<p>ORDER BY  count DESC<p> 
 
 <h3 id="Quatrième étape: Résultat obtenu">Quatrième étape: Résultat obtenu</h3>
 
