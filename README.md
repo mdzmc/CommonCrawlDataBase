@@ -193,18 +193,14 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>Nous avons d'abord catégorisé les sites url par sujets:</p>
 
-<head>
-  <title>Les Sujets</title>
-  <meta charset= "utf-8">
-  <link rel="stylesheet"href="cours.css">
-</head>
-
-<body>
-  <table>
+<table>
+  <thead>
     <tr>
       <td>Sujet</td>
       <td>Définition/exemple</td>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Développement personnel</td>
       <td>Développement personnel</td>
@@ -261,8 +257,8 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
       <td>Autre</td>
       <td>tout le reste</td>
     </tr>
-  </table>
-</body>
+  </tbody>
+</table>
 
 <p>Nous avons ensuite catégorisé les sites url par types:</p>
 
