@@ -240,7 +240,9 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>Regardez <a href="https://docs.google.com/spreadsheets/d/1-1nmO2qQYdBU6d9_HH1OjAhMYWz4gSsP/edit#gid=1641676625">l'analyse des 500 url</a> pour avoir plus de détails.</p>
 
-<h2 id="L'analyse des données">L'analyse des données</h2>
+<h1 id="L'analyse des données">L'analyse des données</h1>
+
+<h2 id="Nos résultats">Nos résultats</h2>
 
 <p>ajouter la photo du graphisme </p>
 
@@ -250,19 +252,45 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>Concernant le type de documents proposés dans chaque site, la plupart de ces plateformes sont des sites de ventes (28%). Durant notre enquête, nous avons également trouvé de nombreux blogs (17%), puis dans une moindre mesure des presses (8%), des sites d’identification (6%), de recherche (6%), événementiel (6%) et associatif (6%). Les types de documents les moins représentés dans cet échantillon sont les forums, les vidéos/photos à hauteur de 4%. Puis les sites personnels et les journaux à 3% et enfin les annuaires et les encyclopédies qui correspondent à seulement 2% des tous ces sites.</p>
 
-<h1 id="Updates via les réseaux sociaux">Updates via les réseaux sociaux</h1>
+<h1 id="Les difficultés de Common Crawl">Les difficultés  de Common Crawl</h1>
+
+<h2 id="Les limites">Les limites</h2>
+
+<p>Common Crawl n'est pas sans limites. Internet étant un espace infini et en expansion constance, Common Crawl ne peut évidemment pas donner une représentation complète du web.</p>
+
+<p>Une des premières limites de Common Crawl, est les langues. En effet, d’après Rich Senka, 58% des pages internet crawler sont en anglais ce qui empêche d’atteindre l’objectif d’avoir une représentation d’Internet dans sa diversité. Cette limite fait l’objet d’initiatives gouvernementales puisque l’Union Européenne et l’Indonésie se sont rapprochées de Common Crawl pour qu’il travaille à plus crawler leurs langues qu'elles soient nationales ou régionales.</p>
+
+<p>Deuxièmement, la qualité du contenu crawler par Common Crawl. Comme nous avons nous-même pu l’observer, certaines pages sont redondantes ou mènent à des contenus illicites. Pour l’instant, les pages qui sont crawler par Common Crawl sont déterminées par un modèle mathématique qui donne un score à ces pages basées sur leur trafic. Par conséquent, certaines pages seront crawlées deux fois seulement parce que la date de l’article a changé. Ainsi, Common Crawl travaille à développer une indexation des pages web basé sur “harmonic centrality”, c'est-à-dire le nombre de liens qui mènent à une page. Par ailleurs, en crawlant des pages webs, Common Crawl prend connaissance de milliards d'autres liens qui mènent à d'autres pages internet, c'est ce qu'on appel la "URL Frontier". Dès lors, Common Crawl va tenter de sélectionner une partie de ces URLs pour les crawler le mois prochain et ainsi permettre une représentation plus qualitative du web.</p>
+
+<p>Troisièmement, au-delà de la qualité du crawl, son exhaustivité a aussi des limites, car Common Crawl se concentre seulement sur les pages web sans archiver des contenus photographiques et vidéographiques qui font partis de l’internet, d’autant plus avec le développement des réseaux sociaux et des memes. Ainsi, une partie du web qui contient des éléments socio-culturels, artistiques, politiques, et historiques n'est pas présente dans l’archive faite par Common Crawl chaque mois. Néanmoins, crawler des photos et des vidéos nécessiterait une capacité de stockage de données énormes, il y a donc aussi des limites physiques et financières à la capacité d'exhaustivité de Common Crawl.</p>
+
+<p>Quatrièmement, Common Crawl ne procède pas à un “semantic-based filtering”, c'est-à- dire qu’il n y a pas de nettoyage des données pour éliminer les contenus haineux, illicites, ou redondants. Ainsi, le nettoyage de la base de données est laissé aux développeurs qui vont l’utiliser. Néanmoins, il est important de noter que la modération/filtrage de contenus et la détermination du caractère haineux ou illicite est une problématique dure à traiter, car cette caractérisation peut varier d’un pays à un autre et cela revient à ériger des entreprises privées en juge de la liberté d’expression.</p>
+
+<h2 id="Les enjeux">Les enjeux</h2>
+
+<p>Avec l'avènement de LLMs et d’intelligence artificielle comme ChatGPT qui utilise la base de données Common Crawl à 60% pour sourcer ses informations, la connaissance des limites des bases données d’indexation de pages web comme Common Crawl est cruciale pour mieux aborder ces outils.<p>
+
+<p>La qualité et l’exhaustivité des contenus tant linguistiquement qu'en variété de contenus sont clés pour la création de LLMs qui soient basés sur une représentation proportionnée et qualitative d’Internet et donc des sociétés humaines.<p>
+
+<p>La prévalence de l’anglais dans des crawlers comme Common Crawler ralenti le développement de LLMs dans d’autres langues comme le français. Ainsi, des bases de données comme common crawl revêtent un aspect stratégique dans la course au développement de LLMs et d’intelligences artificielles comme le démontre l’existence d’une initiative de l’Union européenne de créer un crawler/index de pages web pour s’affranchir d’entreprises américaines et avoir une autonomie stratégique dans le domaine.<p> 
+
+<p>La qualité du contenu est aussi un enjeu important. En effet, un bot développé par Microsoft qui devait apprendre à faire la conversation en interagissant avec les utilisateurs de Twitter est devenu misogyne, raciste, antisémite, et xénophobe après une journée seulement d’interaction avec les utilisateurs de Twitter. Ainsi, le fait que Common Crawl recensent des sites avec des contenus illégaux, de nombreux sites commerciaux plutôt que des pages informatives, ou encore des blogs avec de nombreuses fautes d'orthographe, peut mener au développement de LLMs et des I.A qui reproduisent et exacerbent les limites de l’internet d’aujourd’hui. Dès lors, le nettoyage et le filtrage des bases de données sont essentiels pour développer des LLMs et I.A de qualités. Néanmoins, le filtrage et nettoyage des données ne sont jamais neutre ce qui peut mener à des systèmes biaisés.</p>
+
+<h1 id="Pour aller plus loin">Pour aller plus loin</h1>
+
+<h2 id="Updates via les réseaux sociaux">Updates via les réseaux sociaux</h2>
+
 <p>Un effort constant de partager les nouveautés et les actualités de l'organisation avec le public notamment à travers twitter:</p>
 
 <blockquote class="twitter-tweet">
   <a href="[https://twitter.com/commoncrawl/status/1671408229589581825?s=46&t=aj6GX9IxEIsWGRYl-HJUjg]"></a>
 </blockquote>
 
-<h1 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h1>
+<h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
 
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
-<iframe width="700" height="400" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AicEmIeuuLw" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
 
       <footer>
