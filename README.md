@@ -176,10 +176,31 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <p>Enfin, nous avons également extrait 500 urls francophone aléatoires afin de les examiner un par un et de les catégoriser en fonction du type de site web (blog, presse, site de vente…) et du sujet traité (commercial, scientifique, information, culture…). Définir de telles catégories et le niveau de détail s’est révélé ardu étant donné la diversité des contenus. Nous nous sommes donc arrêtés sur celles présentées à la page suivante, qui nous permettent d’obtenir une première vue d’ensemble du type de sites francophones inclues dans le crawl d’octobre 2023.<p> 
 
 <table>
-< tr > < td >Sujet< /td > < td >Définition/exemple< /td > < /tr >
-< tr > < td >Développement personnel< /td > < td >Développement personnel< /td > < /tr >
-< tr > < td >Commercial< /td > < td >L'oject premier est de vendre un bien ou un service</td></tr >
-< /table >
+  <tr>
+    <td>Sujet</td>
+    <td>Définition/exemple</td>
+  </tr>
+  <tr>
+    <td>Développement personnel</td>
+    <td>Développement personnel</td>
+  </tr>
+  <tr>
+    <td>Commercial</td>
+    <td>L'oject premier est de vendre un bien ou un service</td>
+  </tr>
+  <tr>
+    <td>Culture</td>
+    <td>Tout ce qui est a trait à des évènements artistiques, historiques, évènementiel,etc.</td>
+  </tr>
+  <tr>
+    <td>Information</td>
+    <td>Articles d'information ou d'association</td>
+  </tr>
+  <tr>
+    <td>Professionnel</td>
+    <td>Description d'une entreprise (ex: site d'un cabinet d'avocats)</td>
+  </tr>
+</table>
 
 <p>Exemple d'une requête SQL pour trouver les domaines francophones représentés plus de 100 fois: <p>
 
@@ -296,6 +317,15 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
 <iframe width="500" height="300" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=cjtZW6hR_o0" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=cjtZW6hR_o0"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
 
