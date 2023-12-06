@@ -147,6 +147,8 @@ Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d�
 
 <p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résumé de l'interview</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 
+<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://assets-global.website-files.com/647b1c7a9990bad2048d3711/6480671ff32d469e9cea78d9_rich-skrenta-300x300-1.jpg"></iframe>
+
 <h3 id="Une interview avec un rechercheur: François Yvon">Une interview avec un rechercheur : François Yvon</h3>
 
 <p> Ensuite, pour mieux comprendre la valeur d'une base de données comme common crawl sur un plan pratique d'entrainement d'IA et ses limites techniques, nous avons eu le plaisir d’interviewer François Yvon, un spécialiste du traitement automatique des langues, un domaine à la frontière entre l’IA, l’informatique et la linguistique. François Yvon est actuellement directeur de recherche Centre national de la recherche scientifique (CNRS) et exerce ses fonctions dans l'équipe MLIA (Machine Learning & Deep Learning for Imformation Access) de l'Institut des systèmes intelligents et de robotique (ISIR - CNRS/Sorbonne Université). 
@@ -240,19 +242,48 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <table>
   <tr>Listes des types</tr>
-    <td>Site de vente</td>
-    <td>encyclopédie</td>
-    <td>Évenementiel</td>
-    <td>Presse</td>
-    <td>Journal Académique</td>
-    <td>Site d'identification</td>
-    <td>Site personnel</td>
-    <td>Associatif</td>
-    <td>Vidéos/photos</td>
-    <td>Forum</td>
-    <td>Recherche</td>
-    <td>Annuaire</td>
-    <td>Autre</td>
+  <tr>
+    td>Site de vente</td>
+  </tr>
+  <tr>
+    td>Encyclopédie</td>
+  </tr>
+  <tr>
+    td>Évenementiel</td>
+  </tr>
+  <tr>
+    td>Presse</td>
+  </tr>
+  <tr>
+    td>Journal Académique</td>
+  </tr>
+  <tr>
+    td>Site d'identification</td>
+  </tr>
+  <tr>
+    td>Site personnel</td>
+  </tr>
+  <tr>
+    td>Associatif</td>
+  </tr>
+  <tr>
+    td>Site de vente</td>
+  </tr>
+  <tr>
+    td>Vidéos/Photos</td>
+  </tr>
+  <tr>
+    td>Forum</td>
+  </tr>
+  <tr>
+    td>Recherche</td>
+  </tr>
+  <tr>
+    td>Annuaire</td>
+  </tr>
+  <tr>
+    td>Autre/td>
+  </tr>
 </table>
 
 <p>Exemple d'une requête SQL pour trouver les domaines francophones représentés plus de 100 fois: <p>
@@ -369,16 +400,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
 
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
-<iframe width="500" height="300" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=cjtZW6hR_o0" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=cjtZW6hR_o0"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+<iframe width="425" height="350" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
 
