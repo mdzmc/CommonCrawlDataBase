@@ -260,7 +260,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <h1 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h1>
 
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
-<iframe width="600" height="400" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
 
