@@ -122,7 +122,7 @@ Cette ressource considérable a joué un rôle essentiel dans le développement 
  
 L'initiative utilise également des méthodes d'échantillonnage pour tenter de garantir une représentation variée dans son index. Cependant, les données collectées peuvent être influencées par des biais inhérents au web, tels que des régions géographiques sur-représentées ou des secteurs d'activité plus fréquemment indexés. Ces pratiques de collecte soulèvent des préoccupations concernant la qualité, la neutralité et la représentativité des données extraites, pouvant potentiellement impacter la fiabilité des informations fournies pour la recherche et le développement.<p>
 
-<p> Pour aller plus loin:<p>
+<p> __Pour aller plus loin:__<p>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AicEmIeuuLw" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
@@ -149,7 +149,7 @@ L'initiative utilise également des méthodes d'échantillonnage pour tenter de 
   
 Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d’une telle base de données, il est essentiel de donner la parole à ceux qui sont directement impliqués dans la recherche de solutions. Ainsi pour comprendre l'origine, le fonctionnement, ainsi que les objectifs de ce projet, nous avons eu le privilège de mener une interview approfondie avec Rich Skrenta, l’executive director actuel de Common Crawl, le 29 novembre 2023 à travers Googlemeet. Rich Skrenta nous a expliqué leur ambition de créer une archive du web gratuite et ouverte au public pour le développement de la recherche et de l'innovation.<p> 
 
-<p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résumé de l'interview</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
+<p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">__le résumé de l'interview__</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://assets-global.website-files.com/647b1c7a9990bad2048d3711/6480671ff32d469e9cea78d9_rich-skrenta-300x300-1.jpg"></iframe>
@@ -161,7 +161,7 @@ Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d�
   
 Ses activités de recherche couvrent un large spectre de thématiques en traitement automatique des langues, de la morphologie computationnelle à la fouille de textes et les méthodes d'apprentissage structurées. Il se concentre aujourd'hui sur les traitements multilingues, à ces fins il a été impliqué dans le développement de BLOOM également appelé BigScience Large Open-science Open-access Multilingual language Model qui est un modèle linguistique de grande taille basé sur un transformateur. Il a été créé par des chercheurs en intelligence artificielle afin de fournir un modèle linguistique gratuit à grande échelle accessible au public. Parmis beaucoup d'autres informations, François Yvon nous a aidé à comprendre les limites actuelles des programmes comme Common Crawl notamment liés à la surreprésentation de l'anglais par rapport aux autres langues dans le monde.<p>
 
-<p> Lisez la <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">Transcription mot pour mot de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
+<p> Lisez la <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">__Transcription mot pour mot de l'interview__</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ruYyiFkOC7668NChNMG3cGa_UFsQ4ILysYwLj14Cd6mdTlz"></iframe>
@@ -171,7 +171,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p> Enfin, pour avoir un regard journalistique critique qui peut éclairer sur les enjeux sociétaux et juridiques d'utilisation de Common Crawl, nous avons également eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
   
-<p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résume de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
+<p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">__le résume de l'interview__</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://www.medianes.org/content/images/size/w320/2023/11/photoMV.jpg"></iframe>
@@ -264,7 +264,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <table>
   <tr>
-    <td>Listes des types</td>
+    <td>**Listes des types**</td>
   </tr>
   <tr>
     <td>Site de vente</td>
@@ -428,7 +428,9 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
 
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
-<iframe width="425" height="350" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<iframe width="500" height="400" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
 
