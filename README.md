@@ -258,7 +258,8 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 </blockquote>
 
 <h1 id="Découvrez par vous même les premiers mots sur ce projet avec Gil Elbaz">Découvrez par vous même les premiers mots sur ce projet avec Gil Elbaz</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?feature=shared&embeds_referring_euri=https%3A%2F%2Fcommoncrawl.org%2F&source_ve_path=MTY0OTksMjg2NjQsMTY0NTA2&feature=emb_share&v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
       <footer>
