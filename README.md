@@ -423,12 +423,16 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <p> nous pouvons regarder les résultats sur le tableau suivant :</p>
 
 <center>
-<iframe width="1000" height="500" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"></iframe>
+<iframe width="1100" height="500" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"></iframe>
 </center>
 
 <p>En analysant les cinq cents sites web utilisées par Common Crawl, nous avons pu noter qu’un quart des sites traitent d’un sujet commercial (26%), 17% traitent de sujets culturels face à seulement 5% en matière académique et 3% en matière politique/ religieuse mais aussi en sport. Également, 12% des sites fournissent des informations, 11% ont un objet professionnel, 9% portent sur l’Administration et 6% d’entre eux abordent le développement personnel. Enfin, avec un taux très faible, 2% des sites ont un objet illicite, 1% portent sur les sciences/statistiques et 1% également concernant l’économie et la finance. Enfin, sur ces cinq sites sélectionnés au hasard, aucun ne portait sur un sujet juridique. </p>
 
 <p>ajouter la deuxième photo du graphisme</p>
+
+<center>
+<iframe width="1100" height="500" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArfeaMXMAIXQ3V?format=jpg&name=medium"></iframe>
+</center>
 
 <p>Concernant le type de documents proposés dans chaque site, la plupart de ces plateformes sont des sites de ventes (28%). Durant notre enquête, nous avons également trouvé de nombreux blogs (17%), puis dans une moindre mesure des presses (8%), des sites d’identification (6%), de recherche (6%), événementiel (6%) et associatif (6%). Les types de documents les moins représentés dans cet échantillon sont les forums, les vidéos/photos à hauteur de 4%. Puis les sites personnels et les journaux à 3% et enfin les annuaires et les encyclopédies qui correspondent à seulement 2% des tous ces sites.</p>
 
@@ -473,7 +477,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
 
 <center>
-<iframe width="634" height="400" src="https://www.youtube.com/embed/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="634" height="400" src="https://www.youtube.com/watch?v=sdtnQ_qluIo/embed" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
