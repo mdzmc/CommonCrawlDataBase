@@ -145,17 +145,21 @@ L'initiative utilise également des méthodes d'échantillonnage pour tenter de 
 
 <h3 id="Une interview avec l'executive director actuel de Common Crawl : Rich Skrenta">Une interview avec l'executive director actuel de Common Crawl : Rich Skrenta</h3>
 
+<center>
+<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://assets-global.website-files.com/647b1c7a9990bad2048d3711/6480671ff32d469e9cea78d9_rich-skrenta-300x300-1.jpg"></iframe>
+</center>
+
 <p> Rich Skrenta est un programmeur informatique américain et entrepreneur de la Silicon Valley qui a créé le moteur de recherche internet Blekko. Avant de travailler pour Common Crawl, Rich Skrenta a travaillé chez Meta notamment comme « web crawler » et a créé « a search engine » qu’il a ensuite revendu avant de se consacrer entièrement à la mission de Common Crawl.
   
 Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d’une telle base de données, il est essentiel de donner la parole à ceux qui sont directement impliqués dans la recherche de solutions. Ainsi pour comprendre l'origine, le fonctionnement, ainsi que les objectifs de ce projet, nous avons eu le privilège de mener une interview approfondie avec Rich Skrenta, l’executive director actuel de Common Crawl, le 29 novembre 2023 à travers Googlemeet. Rich Skrenta nous a expliqué leur ambition de créer une archive du web gratuite et ouverte au public pour le développement de la recherche et de l'innovation.<p> 
 
 <p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résumé de l'interview</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 
-<center>
-<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://assets-global.website-files.com/647b1c7a9990bad2048d3711/6480671ff32d469e9cea78d9_rich-skrenta-300x300-1.jpg"></iframe>
-</center>
-
 <h3 id="Une interview avec un rechercheur: François Yvon">Une interview avec un rechercheur : François Yvon</h3>
+
+<center>
+<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ruYyiFkOC7668NChNMG3cGa_UFsQ4ILysYwLj14Cd6mdTlz"></iframe>
+</center>
 
 <p> Ensuite, pour mieux comprendre la valeur d'une base de données comme common crawl sur un plan pratique d'entrainement d'IA et ses limites techniques, nous avons eu le plaisir d’interviewer François Yvon, un spécialiste du traitement automatique des langues, un domaine à la frontière entre l’IA, l’informatique et la linguistique. François Yvon est actuellement directeur de recherche Centre national de la recherche scientifique (CNRS) et exerce ses fonctions dans l'équipe MLIA (Machine Learning & Deep Learning for Imformation Access) de l'Institut des systèmes intelligents et de robotique (ISIR - CNRS/Sorbonne Université). 
   
@@ -163,19 +167,15 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p> Lisez la <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">Transcription mot pour mot de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
 
-<center>
-<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ruYyiFkOC7668NChNMG3cGa_UFsQ4ILysYwLj14Cd6mdTlz"></iframe>
-</center>
-
 <h3 id="Une interview avec une journaliste: Margaux Vulliet">Une interview avec une journalise : Margaux Vulliet</h3>
-
-<p> Enfin, pour avoir un regard journalistique critique qui peut éclairer sur les enjeux sociétaux et juridiques d'utilisation de Common Crawl, nous avons également eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
-  
-<p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résume de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://www.medianes.org/content/images/size/w320/2023/11/photoMV.jpg"></iframe>
 </center>
+
+<p> Enfin, pour avoir un regard journalistique critique qui peut éclairer sur les enjeux sociétaux et juridiques d'utilisation de Common Crawl, nous avons également eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
+  
+<p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résume de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
 <h1 id="Méthodologie d'extraction de données">Méthodologie d'extraction des données</h1>
 
@@ -375,7 +375,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <table>
   <tr>
-    <td>**Numéro**</td>
+    <td>*Numéro*</td>
     <td>Count</td>
     <td>url_host_registered_domain</td>
   </tr>
@@ -463,8 +463,9 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
 
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
+
 <center>
-<iframe width="500" height="400" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="634" height="400" src="https://www.youtube.com/embed/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
