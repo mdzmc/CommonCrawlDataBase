@@ -96,7 +96,9 @@ Au fil des années, cette initiative a pris de l'ampleur, atteignant des dimensi
  
 Cette ressource considérable a joué un rôle essentiel dans le développement de nombreuses technologies, notamment dans le domaine de l'intelligence artificielle, du traitement du langage naturel, de la recherche en sciences sociales, et bien d'autres. La base de données "Common Crawl" est devenue un pilier fondamental pour la recherche et l'innovation, offrant un accès libre et ouvert à des quantités massives de données web pour des applications variées.</p>
 
+<center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
+</center>
 
 <p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même: <a href="https://commoncrawl.org/overview">Site Officiel: Common Crawl</a>.</p>
 
@@ -147,7 +149,9 @@ Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d�
 
 <p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résumé de l'interview</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 
+<center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://assets-global.website-files.com/647b1c7a9990bad2048d3711/6480671ff32d469e9cea78d9_rich-skrenta-300x300-1.jpg"></iframe>
+</center>
 
 <h3 id="Une interview avec un rechercheur: François Yvon">Une interview avec un rechercheur : François Yvon</h3>
 
@@ -162,6 +166,10 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <p> Enfin, pour avoir un regard journalistique critique qui peut éclairer sur les enjeux sociétaux et juridiques d'utilisation de Common Crawl, nous avons également eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
   
 <p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résume de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
+
+<center>
+<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://www.medianes.org/content/images/size/w320/2023/11/photoMV.jpg"></iframe>
+</center>
 
 <h1 id="Méthodologie d'extraction de données">Méthodologie d'extraction des données</h1>
 
@@ -241,48 +249,50 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 </table>
 
 <table>
-  <tr>Listes des types</tr>
   <tr>
-    td>Site de vente</td>
+    <td>Listes des types</td>
   </tr>
   <tr>
-    td>Encyclopédie</td>
+    <td>Site de vente</td>
   </tr>
   <tr>
-    td>Évenementiel</td>
+    <td>Encyclopédie</td>
   </tr>
   <tr>
-    td>Presse</td>
+    <td>Évenementiel</td>
   </tr>
   <tr>
-    td>Journal Académique</td>
+    <td>Presse</td>
   </tr>
   <tr>
-    td>Site d'identification</td>
+    <td>Journal Académique</td>
   </tr>
   <tr>
-    td>Site personnel</td>
+    <td>Site d'identification</td>
   </tr>
   <tr>
-    td>Associatif</td>
+    <td>Site personnel</td>
   </tr>
   <tr>
-    td>Site de vente</td>
+    <td>Associatif</td>
   </tr>
   <tr>
-    td>Vidéos/Photos</td>
+    <td>Site de vente</td>
   </tr>
   <tr>
-    td>Forum</td>
+    <td>Vidéos/Photos</td>
   </tr>
   <tr>
-    td>Recherche</td>
+    <td>Forum</td>
   </tr>
   <tr>
-    td>Annuaire</td>
+    <td>Recherche</td>
   </tr>
   <tr>
-    td>Autre/td>
+    <td>Annuaire</td>
+  </tr>
+  <tr>
+    <td>Autre/td>
   </tr>
 </table>
 
@@ -393,9 +403,11 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>Un effort constant de partager les nouveautés et les actualités de l'organisation avec le public notamment à travers twitter:</p>
 
+<center>
 <blockquote class="twitter-tweet">
   <a href="[https://twitter.com/commoncrawl/status/1671408229589581825?s=46&t=aj6GX9IxEIsWGRYl-HJUjg]"></a>
 </blockquote>
+</center>
 
 <h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
 
