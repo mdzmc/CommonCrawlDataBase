@@ -124,7 +124,7 @@ L'initiative utilise également des méthodes d'échantillonnage pour tenter de 
 
 <p> Pour aller plus loin:<p>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sdtnQ_qluIo" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=sdtnQ_qluIo" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <h1 id="Méthodologie de l'enquête">Méthodologie de l'enquête</h1>
@@ -406,8 +406,6 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
   </tr>
 </table>
 
-<p> 5 premières lignes : 142792 = free.fr ; 418451 = lefigaro.fr ; 361559 = cnrs.fr ; 199026 = online.fr ; 165030 = orange.fr</p>
-
 <p>Regardez <a href="https://docs.google.com/spreadsheets/d/1-1nmO2qQYdBU6d9_HH1OjAhMYWz4gSsP/edit#gid=1641676625">l'analyse des 500 url</a> pour avoir plus de détails.</p>
 
 <h1 id="L'analyse des données">L'analyse des données</h1>
@@ -425,7 +423,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <p>gardons </p>
 
 <center>
-<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"></iframe>
+<iframe width="800" height="500" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"></iframe>
 </center>
 
 <p>En analysant les cinq cents sites web utilisées par Common Crawl, nous avons pu noter qu’un quart des sites traitent d’un sujet commercial (26%), 17% traitent de sujets culturels face à seulement 5% en matière académique et 3% en matière politique/ religieuse mais aussi en sport. Également, 12% des sites fournissent des informations, 11% ont un objet professionnel, 9% portent sur l’Administration et 6% d’entre eux abordent le développement personnel. Enfin, avec un taux très faible, 2% des sites ont un objet illicite, 1% portent sur les sciences/statistiques et 1% également concernant l’économie et la finance. Enfin, sur ces cinq sites sélectionnés au hasard, aucun ne portait sur un sujet juridique. </p>
@@ -475,7 +473,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
 
 <center>
-<iframe width="634" height="400" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="634" height="400" src="https://www.youtube.com/embed/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
