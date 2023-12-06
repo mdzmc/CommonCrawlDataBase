@@ -143,7 +143,7 @@ L'initiative utilise également des méthodes d'échantillonnage pour tenter de 
 
 <h2 id="Interviews">Interviews</h2>
 
-<h3 id="Une interview avec l'executive director actuel de Common Crawl : Rich Skrenta">Une interview avec l'executive director actuel de Common Crawl : Rich Skrenta</h3>
+<h3 id="Une interview avec le directeur général actuel de Common Crawl : Rich Skrenta">Une interview avec le directeur général actuel de Common Crawl : Rich Skrenta</h3>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://assets-global.website-files.com/647b1c7a9990bad2048d3711/6480671ff32d469e9cea78d9_rich-skrenta-300x300-1.jpg"></iframe>
@@ -155,7 +155,7 @@ Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d�
 
 <p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résumé de l'interview</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 
-<h3 id="Une interview avec un rechercheur: François Yvon">Une interview avec un rechercheur : François Yvon</h3>
+<h3 id="Une interview avec un chercheur: François Yvon">Une interview avec un chercheur : François Yvon</h3>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ruYyiFkOC7668NChNMG3cGa_UFsQ4ILysYwLj14Cd6mdTlz"></iframe>
@@ -416,7 +416,17 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>ajouter la photo du graphisme </p>
 
-.github/Picture1.png
+<center>
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/fac_projet/status/1732439496442986665/photo/1"></a>
+</blockquote>
+</center>
+
+<p>.github/Picture1.png<p>je ne sais pas </p>
+
+<center>
+<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://twitter.com/fac_projet/status/1732439496442986665/photo/1"></iframe>
+</center>
 
 <p>En analysant les cinq cents sites web utilisées par Common Crawl, nous avons pu noter qu’un quart des sites traitent d’un sujet commercial (26%), 17% traitent de sujets culturels face à seulement 5% en matière académique et 3% en matière politique/ religieuse mais aussi en sport. Également, 12% des sites fournissent des informations, 11% ont un objet professionnel, 9% portent sur l’Administration et 6% d’entre eux abordent le développement personnel. Enfin, avec un taux très faible, 2% des sites ont un objet illicite, 1% portent sur les sciences/statistiques et 1% également concernant l’économie et la finance. Enfin, sur ces cinq sites sélectionnés au hasard, aucun ne portait sur un sujet juridique. </p>
 
