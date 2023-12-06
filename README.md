@@ -419,7 +419,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <h1 id="Les difficultés de Common Crawl">Les difficultés  de Common Crawl</h1>
 
-<h2 id="**Les limites**">**Les limites**</h2>
+<h2 id="Les limites">Les limites</h2>
 
 <p>Common Crawl n'est pas sans limites. Internet étant un espace infini et en expansion constance, Common Crawl ne peut évidemment pas donner une représentation complète du web.</p>
 
@@ -441,6 +441,9 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>La qualité du contenu est aussi un enjeu important. En effet, un bot développé par Microsoft qui devait apprendre à faire la conversation en interagissant avec les utilisateurs de Twitter est devenu misogyne, raciste, antisémite, et xénophobe après une journée seulement d’interaction avec les utilisateurs de Twitter. Ainsi, le fait que Common Crawl recensent des sites avec des contenus illégaux, de nombreux sites commerciaux plutôt que des pages informatives, ou encore des blogs avec de nombreuses fautes d'orthographe, peut mener au développement de LLMs et des I.A qui reproduisent et exacerbent les limites de l’internet d’aujourd’hui. Dès lors, le nettoyage et le filtrage des bases de données sont essentiels pour développer des LLMs et I.A de qualités. Néanmoins, le filtrage et nettoyage des données ne sont jamais neutre ce qui peut mener à des systèmes biaisés.</p>
 
+<h1 id="Conclusion">Conclusion</h1>
+
+<p>Common Crawl est une base de données qui a été lancée par Gil Elbaz dans le but de créer une archive du web gratuite et entièrement publique en rassemblant dans des dossiers tous les liens url d'internet. En vue de l'objectif de l'organisation, la base de données en elle-même présente surtout des problèmes de représentation linguistiques mais l'organisation ne se souhaite pas refuser ou interdire la prise en compte de certaines sites puisque Common Crawl voudrait à une archive complète d'internet. En revanche, il est admis qu'il est important qu'un filtre soit ensuite utilisé pour gérer leur utilisation avec les IA.</p>
 <h1 id="Pour aller plus loin">Pour aller plus loin</h1>
 
 <h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
@@ -458,11 +461,6 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
   <a href="[https://twitter.com/commoncrawl/status/1671408229589581825?s=46&t=aj6GX9IxEIsWGRYl-HJUjg]"></a>
 </blockquote>
 </center>
-
-<h1 id="Conclusion">Conclusion</h1>
-
-<p>Common Crawl est une base de données qui a été lancée par Gil Elbaz dans le but de créer une archive du web gratuite et entièrement publique en rassemblant dans des dossiers tous les liens url d'internet. En vue de l'objectif de l'organisation, la base de données en elle-même présente surtout des problèmes de représentation linguistiques mais l'organisation ne se souhaite pas refuser ou interdire la prise en compte de certaines sites puisque Common Crawl voudrait à une archive complète d'internet. En revanche, il est admis qu'il est important qu'un filtre soit ensuite utilisé pour gérer leur utilisation avec les IA.</p>
-
 
       <footer>
         <span class="ribbon-outer">
