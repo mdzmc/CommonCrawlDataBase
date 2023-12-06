@@ -186,8 +186,8 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <h3 id="Deuxième étape: Création du tableau contenant les valeurs et synchronisation avec les données Common Crawl">Deuxième étape: création du tableau contenant les valeurs et les synchronisation avec les données Common Crawl</h3>
 
 <p>CREATE EXTERNAL TABLE IF NOT EXISTS ccindex (<p>
-<p>url_surtkley                  STRING<p>
-<p>url                           STRING<p>
+<p>url_surtkley &emsp;&emsp;&emsp;STRING<p>
+<p>url&emsp;&emsp;&emsp;&emsp;STRING<p>
 <p>url_host_name                 STRING<p>
 <p>url_host_tld                  STRING<p>
 <p>url_host__2nd_last_part       STRING<p>
@@ -262,6 +262,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
 <iframe width="700" height="400" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AicEmIeuuLw" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
 
       <footer>
