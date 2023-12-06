@@ -175,6 +175,12 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>Enfin, nous avons également extrait 500 urls francophone aléatoires afin de les examiner un par un et de les catégoriser en fonction du type de site web (blog, presse, site de vente…) et du sujet traité (commercial, scientifique, information, culture…). Définir de telles catégories et le niveau de détail s’est révélé ardu étant donné la diversité des contenus. Nous nous sommes donc arrêtés sur celles présentées à la page suivante, qui nous permettent d’obtenir une première vue d’ensemble du type de sites francophones inclues dans le crawl d’octobre 2023.<p> 
 
+<table>
+< tr > < td >Sujet< /td > < td >Définition/exemple< /td > < /tr >
+< tr > < td >Développement personnel< /td > < td >Développement personnel< /td > < /tr >
+< tr > < td >Commercial< /td > < td >L'oject premier est de vendre un bien ou un service</td></tr >
+< /table >
+
 <p>Exemple d'une requête SQL pour trouver les domaines francophones représentés plus de 100 fois: <p>
 
 <h2 id="Le processus">Le processus</h2>
@@ -186,40 +192,40 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <h3 id="Deuxième étape: Création du tableau contenant les valeurs et synchronisation avec les données Common Crawl">Deuxième étape: création du tableau contenant les valeurs et les synchronisation avec les données Common Crawl</h3>
 
 <p>CREATE EXTERNAL TABLE IF NOT EXISTS ccindex (<p>
-<p>url_surtkley &emsp;&emsp;&emsp;STRING<p>
-<p>url&emsp;&emsp;&emsp;&emsp;STRING<p>
-<p>url_host_name                 STRING<p>
-<p>url_host_tld                  STRING<p>
-<p>url_host__2nd_last_part       STRING<p>
-<p>url_host__3rd_last_part       STRING<p>
-<p>url_host__4th_last_part       STRING<p>
-<p>url_host__5th_last_part       STRING<p>
-<p>url_host__registry_suffix     STRING<p>
-<p>url_host_registered_domain    STRING<p>
-<p>url_host_private_suffix       STRING<p>
-<p>url_host_private_domain       STRING<p> 
-<p>url_host_name_reversed        STRING<p>
-<p>url_host_private_domain       STRING<p>  
-<p>url_protocol                  STRING<p>  
-<p>url_port                         INT<p> 
-<p>url_path                      STRING<p> 
-<p>url_query                     STRING<p> 
-<p>fetch_time                    STRING<p> 
-<p>fetch_status               TIMESTAMP<p>
-<p>fetch_redirect              SMALLINT<p> 
-<p>content_digest                STRING<p>  
-<p>content_mime_type             STRING<p> 
-<p>content_mime_detected         STRING<p> 
-<p>content_charset               STRING<p> 
-<p>content_languages             STRING<p> 
-<p>content_truncated             STRING<p> 
-<p>warc_record_offset               INT<p> 
-<p>warc_record_length               INT<p> 
-<p>warc_segment                 STRING)<p> 
-<p>PARTITIONED BY (                    <p>
-<p>crawl                         STRING<p> 
-<p>subset                       STRING)<p>   
-<p>STORED AS parquet                   <p>     
+<p>url_surtkley &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host_name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host_tld&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host__2nd_last_part&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host__3rd_last_part&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host__4th_last_part&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host__5th_last_part&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host__registry_suffix&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host_registered_domain&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host_private_suffix&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host_private_domain&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>url_host_name_reversed&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>
+<p>url_host_private_domain&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>  
+<p>url_protocol&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>  
+<p>url_port&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;INT<p> 
+<p>url_path&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>url_query&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>fetch_time&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>fetch_status&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;TIMESTAMP<p>
+<p>fetch_redirect&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;SMALLINT<p> 
+<p>content_digest&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p>  
+<p>content_mime_type&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>content_mime_detected&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>content_charset&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>content_languages&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>content_truncated&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>warc_record_offset&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;INT<p> 
+<p>warc_record_length&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;INT<p> 
+<p>warc_segment&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING)<p> 
+<p>PARTITIONED BY (&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <p>
+<p>crawl&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING<p> 
+<p>subset&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;STRING)<p>   
+<p>STORED AS parquet&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<p>     
 <p>LOCATION 's3://commoncrawl/cc-index/table/cc-main/warc/';<p>
 
 <h3 id="Troisième étape: Dénombrement des domaines francophones représentées plus de 100 fois">Troisième étape: Dénombrement des domaines francophones représentées plus de 100 fois</h3>
