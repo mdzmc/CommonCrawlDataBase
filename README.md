@@ -96,7 +96,7 @@ Au fil des années, cette initiative a pris de l'ampleur, atteignant des dimensi
  
 Cette ressource considérable a joué un rôle essentiel dans le développement de nombreuses technologies, notamment dans le domaine de l'intelligence artificielle, du traitement du langage naturel, de la recherche en sciences sociales, et bien d'autres. La base de données "Common Crawl" est devenue un pilier fondamental pour la recherche et l'innovation, offrant un accès libre et ouvert à des quantités massives de données web pour des applications variées.</p>
 
-<iframe width="624" height="386" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
+<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
 
 <p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même: <a href="https://commoncrawl.org/overview">Site Officiel: Common Crawl</a>.</p>
 
@@ -200,6 +200,59 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
     <td>Professionnel</td>
     <td>Description d'une entreprise (ex: site d'un cabinet d'avocats)</td>
   </tr>
+  <tr>
+    <td>Académique</td>
+    <td>Journaux académique, recherche (ex: Cairn)</td>
+  </tr>
+  <tr>
+    <td>Administration</td>
+    <td>En référence à des sites pubilcs ou des démarches administratives</td>
+  </tr>
+  <tr>
+    <td>Légal</td>
+    <td>En référence à des sites traitant de droit</td>
+  </tr>
+  <tr>
+    <td>Illicite</td>
+    <td>pornographie, sites complotistes, extrêmes</td>
+  </tr>
+  <tr>
+    <td>Politique/religieux</td>
+    <td>Partis politiques ou promotion de religions</td>
+  </tr>
+  <tr>
+    <td>Sport</td>
+    <td>Associations sportives, sites de sport</td>
+  </tr>
+  <tr>
+    <td>Economie/Finance</td>
+    <td>Banque de France, sites boursiers</td>
+  </tr>
+  <tr>
+    <td>Science/Statistique</td>
+    <td>Insee, publications scientifiques</td>
+  </tr>
+  <tr>
+    <td>Autre</td>
+    <td>tout le reste</td>
+  </tr>
+</table>
+
+<table>
+  <tr>Listes des types</tr>
+    <td>Site de vente</td>
+    <td>encyclopédie</td>
+    <td>Évenementiel</td>
+    <td>Presse</td>
+    <td>Journal Académique</td>
+    <td>Site d'identification</td>
+    <td>Site personnel</td>
+    <td>Associatif</td>
+    <td>Vidéos/photos</td>
+    <td>Forum</td>
+    <td>Recherche</td>
+    <td>Annuaire</td>
+    <td>Autre</td>
 </table>
 
 <p>Exemple d'une requête SQL pour trouver les domaines francophones représentés plus de 100 fois: <p>
