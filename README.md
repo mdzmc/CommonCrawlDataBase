@@ -257,10 +257,12 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
   <a href="[https://twitter.com/commoncrawl/status/1671408229589581825?s=46&t=aj6GX9IxEIsWGRYl-HJUjg]"></a>
 </blockquote>
 
-<h1 id="Découvrez par vous même les premiers mots sur ce projet avec Gil Elbaz">Découvrez par vous même les premiers mots sur ce projet avec Gil Elbaz</h1>
+<h1 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h1>
 
+<p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=cjtZW6hR_o0" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
 
       <footer>
         <span class="ribbon-outer">
