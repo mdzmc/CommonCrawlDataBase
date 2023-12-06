@@ -124,7 +124,7 @@ L'initiative utilise également des méthodes d'échantillonnage pour tenter de 
 
 <p> Pour aller plus loin:<p>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=sdtnQ_qluIo" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9rVXf-hWu0zgjll" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <h1 id="Méthodologie de l'enquête">Méthodologie de l'enquête</h1>
@@ -420,10 +420,10 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 </blockquote>
 </center>
 
-<p>gardons </p>
+<p> nous pouvons regarder les résultats sur le tableau suivant :</p>
 
 <center>
-<iframe width="800" height="500" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"></iframe>
+<iframe width="1000" height="500" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"></iframe>
 </center>
 
 <p>En analysant les cinq cents sites web utilisées par Common Crawl, nous avons pu noter qu’un quart des sites traitent d’un sujet commercial (26%), 17% traitent de sujets culturels face à seulement 5% en matière académique et 3% en matière politique/ religieuse mais aussi en sport. Également, 12% des sites fournissent des informations, 11% ont un objet professionnel, 9% portent sur l’Administration et 6% d’entre eux abordent le développement personnel. Enfin, avec un taux très faible, 2% des sites ont un objet illicite, 1% portent sur les sciences/statistiques et 1% également concernant l’économie et la finance. Enfin, sur ces cinq sites sélectionnés au hasard, aucun ne portait sur un sujet juridique. </p>
