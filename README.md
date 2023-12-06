@@ -407,13 +407,13 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <h1 id="L'analyse de nos résultats">L'analyse de nos résultats</h1>
 
-<h2 id="Les sujets">Les sujets</h2>
+<h2 id="Les sujets des sites">Les sujets des sites</h2>
 
 <p><img src="https://pbs.twimg.com/media/GAsl_CCXMAEdDec?format=jpg&name=medium"/></p>
 
 <p>En analysant les cinq cents sites web utilisées par Common Crawl, nous avons pu noter qu’un quart des sites traitent d’un sujet commercial (26%), 17% traitent de sujets culturels face à seulement 5% en matière académique et 3% en matière politique/ religieuse mais aussi en sport. Également, 12% des sites fournissent des informations, 11% ont un objet professionnel, 9% portent sur l’Administration et 6% d’entre eux abordent le développement personnel. Enfin, avec un taux très faible, 2% des sites ont un objet illicite, 1% portent sur les sciences/statistiques et 1% également concernant l’économie et la finance. Enfin, sur ces cinq sites sélectionnés au hasard, aucun ne portait sur un sujet juridique. </p>
 
-<h2 id="Les types de documents">Les types de documents</h2>
+<h2 id="Les types de sites">Les types de sites</h2>
 
 <p><img src="https://pbs.twimg.com/media/GAsl5cZWcAAsnhO?format=jpg&name=medium"/></p>
 
@@ -421,13 +421,9 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <h2 id="Les sites francophones">Les sites francophones</h2>
 
-<p>Les sites francophones les plus utilisés</p>
-
 <p><img src="https://pbs.twimg.com/media/GAsluBhXwAETUZv?format=jpg&name=medium"/></p>
 
 <h2 id="Les langues">Les langues</h2>
-
-<p>Les langues les plus utilisées</p>
 
 <p><img src="https://pbs.twimg.com/media/GAslznHWwAAemSk?format=jpg&name=medium"/></p>
 
