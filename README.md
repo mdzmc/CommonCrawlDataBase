@@ -149,7 +149,7 @@ L'initiative utilise également des méthodes d'échantillonnage pour tenter de 
   
 Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d’une telle base de données, il est essentiel de donner la parole à ceux qui sont directement impliqués dans la recherche de solutions. Ainsi pour comprendre l'origine, le fonctionnement, ainsi que les objectifs de ce projet, nous avons eu le privilège de mener une interview approfondie avec Rich Skrenta, l’executive director actuel de Common Crawl, le 29 novembre 2023 à travers Googlemeet. Rich Skrenta nous a expliqué leur ambition de créer une archive du web gratuite et ouverte au public pour le développement de la recherche et de l'innovation.<p> 
 
-<p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">__le résumé de l'interview__</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
+<p> Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résumé de l'interview</a> pour en apprendre plus sur cette entretien ou découvrez en plus sur son parcours <a href="https://commoncrawl.org/team/rich-skrenta-director">Site Officiel de Common Crawl</a> pour en apprendre plus.</p>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://assets-global.website-files.com/647b1c7a9990bad2048d3711/6480671ff32d469e9cea78d9_rich-skrenta-300x300-1.jpg"></iframe>
@@ -161,7 +161,7 @@ Lorsque l'on aborde la question complexe du fonctionnement et l’utilisation d�
   
 Ses activités de recherche couvrent un large spectre de thématiques en traitement automatique des langues, de la morphologie computationnelle à la fouille de textes et les méthodes d'apprentissage structurées. Il se concentre aujourd'hui sur les traitements multilingues, à ces fins il a été impliqué dans le développement de BLOOM également appelé BigScience Large Open-science Open-access Multilingual language Model qui est un modèle linguistique de grande taille basé sur un transformateur. Il a été créé par des chercheurs en intelligence artificielle afin de fournir un modèle linguistique gratuit à grande échelle accessible au public. Parmis beaucoup d'autres informations, François Yvon nous a aidé à comprendre les limites actuelles des programmes comme Common Crawl notamment liés à la surreprésentation de l'anglais par rapport aux autres langues dans le monde.<p>
 
-<p> Lisez la <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">__Transcription mot pour mot de l'interview__</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
+<p> Lisez la <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">Transcription mot pour mot de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.isir.upmc.fr/personnel/yvon/">Site ISIR</a> pour en apprendre plus.</p>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0ruYyiFkOC7668NChNMG3cGa_UFsQ4ILysYwLj14Cd6mdTlz"></iframe>
@@ -171,7 +171,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p> Enfin, pour avoir un regard journalistique critique qui peut éclairer sur les enjeux sociétaux et juridiques d'utilisation de Common Crawl, nous avons également eu le plaisir d’interviewer Margaux Vulliet, une journaliste spécialisée en technologie, qui a écrit l’article « De Chatgpt à bard : voilà à quoi ressemblent les bases de données utilisées pour former les IA » pour BMTV en avril 2023.<p>
   
-<p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">__le résume de l'interview__</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
+<p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résume de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
 <center>
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://www.medianes.org/content/images/size/w320/2023/11/photoMV.jpg"></iframe>
@@ -264,7 +264,7 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <table>
   <tr>
-    <td>**Listes des types**</td>
+    <td>Listes des types</td>
   </tr>
   <tr>
     <td>Site de vente</td>
@@ -370,6 +370,41 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <p>ORDER BY  count DESC<p> 
 
 <h3 id="Quatrième étape: Résultat obtenu">Quatrième étape: Résultat obtenu</h3>
+
+<p>Les 5 premières lignes</p>
+
+<table>
+  <tr>
+    <td>**Numéro**</td>
+    <td>Count</td>
+    <td>url_host_registered_domain</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1427932</td>
+    <td>free.fr</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>418451</td>
+    <td>lefirgaro.fr</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>361559</td>
+    <td>cnrs.fr</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>199026</td>
+    <td>online.fr</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>165030</td>
+    <td>orange.fr</td>
+  </tr>
+</table>
 
 <p> 5 premières lignes : 142792 = free.fr ; 418451 = lefigaro.fr ; 361559 = cnrs.fr ; 199026 = online.fr ; 165030 = orange.fr</p>
 
