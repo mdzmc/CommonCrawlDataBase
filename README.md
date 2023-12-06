@@ -409,33 +409,17 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <h2 id="Nos résultats">Nos résultats</h2>
 
-<p>ajouter la photo du graphisme </p>
-
-<center>
-<blockquote class="twitter-tweet">
-  <a href="https://twitter.com/fac_projet/status/1732439496442986665/photo/1"></a>
-</blockquote>
-</center>
-
-<p> nous pouvons regarder les résultats sur le tableau suivant :</p>
-
-<center>
-<iframe width="1100" height="500" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"></iframe>
-</center>
+<p><img src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"/></p>
 
 <p>En analysant les cinq cents sites web utilisées par Common Crawl, nous avons pu noter qu’un quart des sites traitent d’un sujet commercial (26%), 17% traitent de sujets culturels face à seulement 5% en matière académique et 3% en matière politique/ religieuse mais aussi en sport. Également, 12% des sites fournissent des informations, 11% ont un objet professionnel, 9% portent sur l’Administration et 6% d’entre eux abordent le développement personnel. Enfin, avec un taux très faible, 2% des sites ont un objet illicite, 1% portent sur les sciences/statistiques et 1% également concernant l’économie et la finance. Enfin, sur ces cinq sites sélectionnés au hasard, aucun ne portait sur un sujet juridique. </p>
 
-<p>ajouter la deuxième photo du graphisme</p>
-
-<center>
-<iframe width="1100" height="500" seamless="" frameborder="0" scrolling="no" src="https://pbs.twimg.com/media/GArfeaMXMAIXQ3V?format=jpg&name=medium"></iframe>
-</center>
+<p><img src="https://pbs.twimg.com/media/GArfeaMXMAIXQ3V?format=jpg&name=medium"/></p>
 
 <p>Concernant le type de documents proposés dans chaque site, la plupart de ces plateformes sont des sites de ventes (28%). Durant notre enquête, nous avons également trouvé de nombreux blogs (17%), puis dans une moindre mesure des presses (8%), des sites d’identification (6%), de recherche (6%), événementiel (6%) et associatif (6%). Les types de documents les moins représentés dans cet échantillon sont les forums, les vidéos/photos à hauteur de 4%. Puis les sites personnels et les journaux à 3% et enfin les annuaires et les encyclopédies qui correspondent à seulement 2% des tous ces sites.</p>
 
 <h1 id="Les difficultés de Common Crawl">Les difficultés  de Common Crawl</h1>
 
-<h2 id="Les limites">Les limites</h2>
+<h2 id="**Les limites**">**Les limites**</h2>
 
 <p>Common Crawl n'est pas sans limites. Internet étant un espace infini et en expansion constance, Common Crawl ne peut évidemment pas donner une représentation complète du web.</p>
 
@@ -468,8 +452,6 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 <h2 id="Updates via les réseaux sociaux">Updates via les réseaux sociaux</h2>
 
 <p>Un effort constant de partager les nouveautés et les actualités de l'organisation avec le public notamment à travers twitter:</p>
-
-<p><img src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"/></p>
 
 <center>
 <blockquote class="twitter-tweet">
