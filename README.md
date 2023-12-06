@@ -191,68 +191,80 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <p>Enfin, nous avons également extrait 500 urls francophone aléatoires afin de les examiner un par un et de les catégoriser en fonction du type de site web (blog, presse, site de vente…) et du sujet traité (commercial, scientifique, information, culture…). Définir de telles catégories et le niveau de détail s’est révélé ardu étant donné la diversité des contenus. Nous nous sommes donc arrêtés sur celles présentées à la page suivante, qui nous permettent d’obtenir une première vue d’ensemble du type de sites francophones inclues dans le crawl d’octobre 2023.<p> 
 
-<table>
-  <tr>
-    <td>Sujet</td>
-    <td>Définition/exemple</td>
-  </tr>
-  <tr>
-    <td>Développement personnel</td>
-    <td>Développement personnel</td>
-  </tr>
-  <tr>
-    <td>Commercial</td>
-    <td>L'oject premier est de vendre un bien ou un service</td>
-  </tr>
-  <tr>
-    <td>Culture</td>
-    <td>Tout ce qui est a trait à des évènements artistiques, historiques, évènementiel,etc.</td>
-  </tr>
-  <tr>
-    <td>Information</td>
-    <td>Articles d'information ou d'association</td>
-  </tr>
-  <tr>
-    <td>Professionnel</td>
-    <td>Description d'une entreprise (ex: site d'un cabinet d'avocats)</td>
-  </tr>
-  <tr>
-    <td>Académique</td>
-    <td>Journaux académique, recherche (ex: Cairn)</td>
-  </tr>
-  <tr>
-    <td>Administration</td>
-    <td>En référence à des sites pubilcs ou des démarches administratives</td>
-  </tr>
-  <tr>
-    <td>Légal</td>
-    <td>En référence à des sites traitant de droit</td>
-  </tr>
-  <tr>
-    <td>Illicite</td>
-    <td>pornographie, sites complotistes, extrêmes</td>
-  </tr>
-  <tr>
-    <td>Politique/religieux</td>
-    <td>Partis politiques ou promotion de religions</td>
-  </tr>
-  <tr>
-    <td>Sport</td>
-    <td>Associations sportives, sites de sport</td>
-  </tr>
-  <tr>
-    <td>Economie/Finance</td>
-    <td>Banque de France, sites boursiers</td>
-  </tr>
-  <tr>
-    <td>Science/Statistique</td>
-    <td>Insee, publications scientifiques</td>
-  </tr>
-  <tr>
-    <td>Autre</td>
-    <td>tout le reste</td>
-  </tr>
-</table>
+<p>Nous avons d'abord catégorisé les sites url par sujets:</p>
+
+<head>
+  <title>Les Sujets</title>
+  <meta charset= "utf-8">
+  <link rel="stylesheet"href="cours.css">
+</head>
+
+<body>
+  <table>
+    <tr>
+      <td>Sujet</td>
+      <td>Définition/exemple</td>
+    </tr>
+    <tr>
+      <td>Développement personnel</td>
+      <td>Développement personnel</td>
+    </tr>
+    <tr>
+      <td>Commercial</td>
+      <td>L'oject premier est de vendre un bien ou un service</td>
+    </tr>
+    <tr>
+      <td>Culture</td>
+      <td>Tout ce qui est a trait à des évènements artistiques, historiques, évènementiel,etc.</td>
+    </tr>
+    <tr>
+      <td>Information</td>
+      <td>Articles d'information ou d'association</td>
+    </tr>
+    <tr>
+      <td>Professionnel</td>
+      <td>Description d'une entreprise (ex: site d'un cabinet d'avocats)</td>
+    </tr>
+    <tr>
+      <td>Académique</td>
+      <td>Journaux académique, recherche (ex: Cairn)</td>
+    </tr>
+    <tr>
+      <td>Administration</td>
+      <td>En référence à des sites pubilcs ou des démarches administratives</td>
+    </tr>
+    <tr>
+      <td>Légal</td>
+      <td>En référence à des sites traitant de droit</td>
+    </tr>
+    <tr>
+      <td>Illicite</td>
+      <td>pornographie, sites complotistes, extrêmes</td>
+    </tr>
+    <tr>
+      <td>Politique/religieux</td>
+      <td>Partis politiques ou promotion de religions</td>
+    </tr>
+    <tr>
+      <td>Sport</td>
+      <td>Associations sportives, sites de sport</td>
+    </tr>
+    <tr>
+      <td>Economie/Finance</td>
+      <td>Banque de France, sites boursiers</td>
+    </tr>
+    <tr>
+      <td>Science/Statistique</td>
+      <td>Insee, publications scientifiques</td>
+    </tr>
+    <tr>
+      <td>Autre</td>
+      <td>tout le reste</td>
+    </tr>
+  </table>
+</body>
+
+<p>Nous avons ensuite catégorisé les sites url par types:</p>
 
 <table>
   <tr>
