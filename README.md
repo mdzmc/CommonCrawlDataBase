@@ -122,10 +122,7 @@ Cette ressource considérable a joué un rôle essentiel dans le développement 
  
 L'initiative utilise également des méthodes d'échantillonnage pour tenter de garantir une représentation variée dans son index. Cependant, les données collectées peuvent être influencées par des biais inhérents au web, tels que des régions géographiques sur-représentées ou des secteurs d'activité plus fréquemment indexés. Ces pratiques de collecte soulèvent des préoccupations concernant la qualité, la neutralité et la représentativité des données extraites, pouvant potentiellement impacter la fiabilité des informations fournies pour la recherche et le développement.<p>
 
-<p> Pour aller plus loin:<p>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u9rVXf-hWu0zgjll" title="Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+<p>Pour aller plus loin <a href="https://www.youtube.com/watch?v=sdtnQ_qluIo">Cliquez Ici</a><p> 
 
 <h1 id="Méthodologie de l'enquête">Méthodologie de l'enquête</h1>
 
@@ -462,25 +459,23 @@ Ses activités de recherche couvrent un large spectre de thématiques en traitem
 
 <h1 id="Pour aller plus loin">Pour aller plus loin</h1>
 
+<h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
+
+<p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: <a href="https://www.youtube.com/watch?v=sdtnQ_qluIo">Écouter l'interview</a><p> 
+
+<p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
+
 <h2 id="Updates via les réseaux sociaux">Updates via les réseaux sociaux</h2>
 
 <p>Un effort constant de partager les nouveautés et les actualités de l'organisation avec le public notamment à travers twitter:</p>
+
+<p><img src="https://pbs.twimg.com/media/GArciE6XQAILwC-?format=jpg&name=medium"/></p>
 
 <center>
 <blockquote class="twitter-tweet">
   <a href="[https://twitter.com/commoncrawl/status/1671408229589581825?s=46&t=aj6GX9IxEIsWGRYl-HJUjg]"></a>
 </blockquote>
 </center>
-
-<h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
-
-<p>Écoutez vous même Gil Elbaz parler du projet lors du lancement de Common Crawl il y a plus de dix ans: </p>
-
-<center>
-<iframe width="634" height="400" src="https://www.youtube.com/watch?v=sdtnQ_qluIo/embed" title="Starts up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
-<p>Cette vidéo nous a été conseillé par Rich Skrenta</p>
 
       <footer>
         <span class="ribbon-outer">
