@@ -100,6 +100,10 @@
 <iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
 </center>
 
+<center>
+<p>Gil Elbaz</p>
+</center>
+
 <p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même: <a href="https://commoncrawl.org/overview">Site Officiel: Common Crawl</a>.</p>
 
 <h3 id="Gestionnaire">Gestionnaire</h3>
@@ -136,8 +140,6 @@
  
 <p>Pour en apprendre plus, nous avons eu la chance de pouvoir interviewer, François Yvon, chercheur émérite en matière de Large Langage Model, Margaux Vulliet journaliste reconnue en média et tech, qui a déjà effectué des enquêtes afin de découvrir les bases de données utilisées pour former les IA et enfin Rich Skrenta qui est le directeur général actuel de Common Crawl.<p> 
 
-<p>Dans un deuxième axe et de manière plus pratique, nous avons nous même tenter d’analyser la base de données de Common Crawl en utilisant la méthodologie présentée ci-dessous.</p>
- 
 <p>Dans un deuxième axe et de manière plus pratique, nous avons nous même tenter d’analyser la base de données de Common Crawl en utilisant la méthodologie présentée ci-dessous.<p> 
 
 <h2 id="Interviews">Interviews</h2>
@@ -178,9 +180,9 @@
 
 <p>L’interview de cette dernière, nous a éclairés sur les enjeux sociétaux et juridiques que peuvent entraîner l’utilisation de Common Crawl.<p>
   
-<p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résume de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
+<p>Lisez <a href="https://docs.google.com/document/d/1gImgfNDMJy7MSOjAxG5pAyQ96xYE2cH6J7mhCl1aaEc/edit">le résumé de l'interview</a> ou découvrez en plus sur son parcours <a href="https://www.medianes.org/author/margaux/">Site Personnel</a> pour en apprendre plus.</p>
 
-<h1 id="Méthodologie d'extraction de données">Méthodologie d'extraction des données</h1>
+<h1 id="Méthodologie d'extraction des données">Méthodologie d'extraction des données</h1>
 
 <p>Pour le deuxième volet de notre analyse, nous avons tenté d’aller au contact même de la base de données et d’en extraire par nous-mêmes certaines informations. Pour cela nous avons concentré notre analyse sur le crawl d’octobre 2023 (CC-MAIN-2023-40).<p>
 
