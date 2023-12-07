@@ -269,7 +269,9 @@
 
 <table>
   <tr>
-    <td><strong>Listes des types retenus<strong></td>
+    <strong>
+    <td><Listes des types retenus</td>
+    <strong>
   </tr>
   <tr>
     <td>Site de vente</td>
