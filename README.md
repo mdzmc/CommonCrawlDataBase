@@ -106,6 +106,11 @@
 
 <p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même: <a href="https://commoncrawl.org/overview">Site Officiel: Common Crawl</a>.</p>
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
 <h3 id="Gestionnaire">Gestionnaire</h3>
 
 <p>L’équipe de l’organisation comporte une vingtaine d’individus, dont 9 sont actifs dans le ‘Advisory Board’. A la tête du Common Crawl se trouve le fondateur, Gil Elbaz, suivi de Rich Skrenta, le directeur général, ainsi que Greg Lindahl, le directeur technique en chef. Parmi les ingénieurs se trouvent Sebastian Nagel, Julien Nioche, ou encore Paul Lazar.<p>
