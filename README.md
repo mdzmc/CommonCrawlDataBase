@@ -91,17 +91,21 @@
 <h3 id="L'histoire de Common Crawl">L'histoire de Common Crawl</h3>
 
 <p>La base de données "Common Crawl" a été lancée en 2008 par Gil Elbaz, fondateur de la société de technologie de la publicité Applied Semantics, et par d'autres acteurs majeurs du domaine de la technologie et de la recherche. Elle a été créée dans le but de collecter et d'archiver des données provenant de milliards de pages web à travers le monde pour produire un “snapshot” d’internet c’est-à-dire une représentation d’internet à un moment donné.</p>
- 
+
+<Center>
+  <iframe width="300" height="215" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
+</Center>
+
+<center>
+<p>Gil Elbaz</p>
+</center>
+
 <p>Au fil des années, cette initiative a pris de l'ampleur, atteignant des dimensions impressionnantes. En 2021, la base de données "Common Crawl" avait indexé et stocké plus de 100 milliards de pages web, totalisant des pétaoctets d'informations. Ce corpus de données massif est continuellement mis à jour à travers des crawls réguliers du web, permettant ainsi d'offrir un accès à jour et étendu à des chercheurs, des développeurs et des organisations dans le monde entier.</p>
  
 <p>Cette ressource considérable a joué un rôle essentiel dans le développement de nombreuses technologies, notamment dans le domaine de l'intelligence artificielle, du traitement du langage naturel, de la recherche en sciences sociales, et bien d'autres. La base de données "Common Crawl" est devenue un pilier fondamental pour la recherche et l'innovation, offrant un accès libre et ouvert à des quantités massives de données web pour des applications variées.</p>
 
 <center>
-<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_j3PHud6HtprNVGyszDMrXHQKNrArEESR8Z7uOgXFhsIgqgQP4Gv-AjoXu76TiJwGrJ8&usqp=CAU"></iframe>&emsp;<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
-</center>
-
-<center>
-<p>Gil Elbaz</p>
+<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_j3PHud6HtprNVGyszDMrXHQKNrArEESR8Z7uOgXFhsIgqgQP4Gv-AjoXu76TiJwGrJ8&usqp=CAU"></iframe>
 </center>
 
 <p>Pour plus d'informations sur cette base de données, découvrez cette base de données vous même: <a href="https://commoncrawl.org/overview">Site Officiel: Common Crawl</a>.</p>
