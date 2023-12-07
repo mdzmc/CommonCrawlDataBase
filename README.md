@@ -468,7 +468,7 @@
 
 <h1 id="Conclusion">Conclusion</h1>
 
-<p>Common Crawl est une base de données qui a été lancée par Gil Elbaz dans le but de créer une archive du web gratuite et entièrement publique en rassemblant dans des dossiers tous les liens url d'internet. En vue de l'objectif de l'organisation, la base de données en elle-même présente surtout des problèmes de représentation linguistiques mais l'organisation ne se souhaite pas refuser ou interdire la prise en compte de certaines sites puisque Common Crawl voudrait à une archive complète d'internet. En revanche, il est admis qu'il est important qu'un filtre soit ensuite utilisé pour gérer leur utilisation avec les IA.</p>
+<p>Common Crawl est une base de données qui a été lancée par Gil Elbaz dans le but de créer une archive du web gratuite et entièrement publique en rassemblant dans des dossiers tous les liens url d'internet. En vue de l'objectif de l'organisation, la base de données en elle-même présente surtout des problèmes de représentation linguistiques mais l'organisation ne se souhaite pas refuser ou interdire la prise en compte de certains sites puisque Common Crawl voudrait à une archive complète d'internet. En revanche, il est admis qu'il est important qu'un filtre soit ensuite utilisé pour gérer leur utilisation avec les IA.</p>
 <h1 id="Pour aller plus loin">Pour aller plus loin</h1>
 
 <h2 id="Les premières interviews sur ce projet">Les premières interviews sur ce projet</h2>
