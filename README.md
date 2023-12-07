@@ -90,6 +90,9 @@
 
 <h3 id="L'histoire de Common Crawl">L'histoire de Common Crawl</h3>
 
+<p>**this is bold text**</p>
+<p>**test**</p>
+
 <p>La base de données "Common Crawl" a été lancée en 2008 par Gil Elbaz, fondateur de la société de technologie de la publicité Applied Semantics, et par d'autres acteurs majeurs du domaine de la technologie et de la recherche. Elle a été créée dans le but de collecter et d'archiver des données provenant de milliards de pages web à travers le monde pour produire un “snapshot” d’internet c’est-à-dire une représentation d’internet à un moment donné.</p>
 
 <p>Au fil des années, cette initiative a pris de l'ampleur, atteignant des dimensions impressionnantes. En 2021, la base de données "Common Crawl" avait indexé et stocké plus de 100 milliards de pages web, totalisant des pétaoctets d'informations. Ce corpus de données massif est continuellement mis à jour à travers des crawls réguliers du web, permettant ainsi d'offrir un accès à jour et étendu à des chercheurs, des développeurs et des organisations dans le monde entier.</p>
