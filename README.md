@@ -201,7 +201,7 @@
 <table>
   <thead>
     <tr>
-      <td><strong>Sujet<strong></td>
+      <td>Sujet</td>
       <td>Définition/exemple</td>
     </tr>
   </thead>
@@ -269,7 +269,7 @@
 
 <table>
   <tr>
-    <td>Listes des types retenus</td>
+    <td><strong>Listes des types retenus<strong></td>
   </tr>
   <tr>
     <td>Site de vente</td>
