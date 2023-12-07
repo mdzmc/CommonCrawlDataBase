@@ -16,13 +16,6 @@
       $(document).ready(function () {
         $('#main_content').headsmart()
       })
-      ``` go
-package main
-import "fmt"
-func main() {
-        fmt.Println("Hello, ä¸–ç•Œ")
-}
-```
     </script>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -84,7 +77,7 @@ func main() {
 
 <h2 id="introduction">Introduction</h2>
 
-<p>Le « Common Crawl Data Set » (plus souvent appelé « Common Crawl ») `est un jeu de données extrêmement riche`, proposé au public par une organisation éponyme américaine à but non-lucratif. Les archives incorporées dans ce jeu remontent jusqu’à 2008, et il est mis à jour à une fréquence mensuelle. Le code permettant le traitement de ses données est open source, et depuis 2012, Amazon Web Services permet également l’accès au Common Crawl à travers son « public data set ».<p>
+<p>Le « Common Crawl Data Set » (plus souvent appelé « Common Crawl ») est un jeu de données extrêmement riche, proposé au public par une organisation éponyme américaine à but non-lucratif. Les archives incorporées dans ce jeu remontent jusqu’à 2008, et il est mis à jour à une fréquence mensuelle. Le code permettant le traitement de ses données est open source, et depuis 2012, Amazon Web Services permet également l’accès au Common Crawl à travers son « public data set ».<p>
   
 <p><img src="https://24pm.com/images/2023/04/21/chat-gpt-data-sources.jpg"/></p>
 
