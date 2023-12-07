@@ -16,6 +16,13 @@
       $(document).ready(function () {
         $('#main_content').headsmart()
       })
+      ``` go
+package main
+import "fmt"
+func main() {
+        fmt.Println("Hello, ä¸–ç•Œ")
+}
+```
     </script>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -32,14 +39,6 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","headline":"enquete_vie_sociale_donnees","name":"enquete_vie_sociale_donnees","url":"https://jphcoi.github.io/enquete_vie_sociale_donnees/"}</script>
 <!-- End Jekyll SEO tag -->
-
-``` go
-package main
-import "fmt"
-func main() {
-        fmt.Println("Hello, ä¸–ç•Œ")
-}
-```
 
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
