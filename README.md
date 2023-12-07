@@ -33,6 +33,13 @@
 {"@context":"https://schema.org","@type":"WebSite","headline":"enquete_vie_sociale_donnees","name":"enquete_vie_sociale_donnees","url":"https://jphcoi.github.io/enquete_vie_sociale_donnees/"}</script>
 <!-- End Jekyll SEO tag -->
 
+``` go
+package main
+import "fmt"
+func main() {
+        fmt.Println("Hello, ä¸–ç•Œ")
+}
+```
 
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
@@ -78,7 +85,7 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<p>Le « Common Crawl Data Set » (plus souvent appelé « Common Crawl ») est un jeu de données extrêmement riche, proposé au public par une organisation éponyme américaine à but non-lucratif. Les archives incorporées dans ce jeu remontent jusqu’à 2008, et il est mis à jour à une fréquence mensuelle. Le code permettant le traitement de ses données est open source, et depuis 2012, Amazon Web Services permet également l’accès au Common Crawl à travers son « public data set ».<p>
+<p>Le « Common Crawl Data Set » (plus souvent appelé « Common Crawl ») `est un jeu de données extrêmement riche`, proposé au public par une organisation éponyme américaine à but non-lucratif. Les archives incorporées dans ce jeu remontent jusqu’à 2008, et il est mis à jour à une fréquence mensuelle. Le code permettant le traitement de ses données est open source, et depuis 2012, Amazon Web Services permet également l’accès au Common Crawl à travers son « public data set ».<p>
   
 <p><img src="https://24pm.com/images/2023/04/21/chat-gpt-data-sources.jpg"/></p>
 
