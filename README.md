@@ -97,7 +97,7 @@
 <p>Cette ressource considérable a joué un rôle essentiel dans le développement de nombreuses technologies, notamment dans le domaine de l'intelligence artificielle, du traitement du langage naturel, de la recherche en sciences sociales, et bien d'autres. La base de données "Common Crawl" est devenue un pilier fondamental pour la recherche et l'innovation, offrant un accès libre et ouvert à des quantités massives de données web pour des applications variées.</p>
 
 <center>
-<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
+<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_j3PHud6HtprNVGyszDMrXHQKNrArEESR8Z7uOgXFhsIgqgQP4Gv-AjoXu76TiJwGrJ8&usqp=CAU"></iframe>&emsp;&emsp;&emsp;&emsp;<iframe width="400" height="315" seamless="" frameborder="0" scrolling="no" src="https://i.insider.com/51685809eab8ea1d71000001?width=750&format=jpeg&auto=webp"></iframe>
 </center>
 
 <center>
