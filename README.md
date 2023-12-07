@@ -78,8 +78,6 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<Strong><p>Test<p></strong>
-
 <p>Le « Common Crawl Data Set » (plus souvent appelé « Common Crawl ») est un jeu de données extrêmement riche, proposé au public par une organisation éponyme américaine à but non-lucratif. Les archives incorporées dans ce jeu remontent jusqu’à 2008, et il est mis à jour à une fréquence mensuelle. Le code permettant le traitement de ses données est open source, et depuis 2012, Amazon Web Services permet également l’accès au Common Crawl à travers son « public data set ».<p>
   
 <p><img src="https://24pm.com/images/2023/04/21/chat-gpt-data-sources.jpg"/></p>
@@ -202,10 +200,12 @@
 
 <table>
   <thead>
+    <strong>
     <tr>
       <td>Sujet</td>
       <td>Définition/exemple</td>
     </tr>
+    <strong>
   </thead>
   <tbody>
     <tr>
