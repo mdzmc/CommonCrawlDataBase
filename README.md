@@ -200,12 +200,10 @@
 
 <table>
   <thead>
-    <strong>
     <tr>
-      <td>Sujet</td>
+      <td><strong>Sujet<strong></td>
       <td>Définition/exemple</td>
     </tr>
-    <strong>
   </thead>
   <tbody>
     <tr>
